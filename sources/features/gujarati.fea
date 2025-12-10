@@ -1,0 +1,2377 @@
+# --------
+# classes
+# --------
+@gujr_class1 = [
+caprehalfgujr caragujr laprehalfgujr laragujr naprehalfgujr naragujr vaprehalfgujr varagujr
+];
+
+@gujr_class103 = [
+dabhagujr davagujr hagujr hanuktagujr nagujr nanuktagujr naragujr naranuktagujr
+];
+
+@gujr_class107 = [
+dadagujr dagujr danuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class108 = [
+dabhagujr dagagujr danagujr daragujr daranuktagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class109 = [
+davagujr hagujr hanuktagujr nagujr nanuktagujr naragujr naranuktagujr
+];
+
+@gujr_class114 = [
+dabhagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class119 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr haragujr haranuktagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr tthatthagujr
+];
+
+@gujr_class12 = [
+dagagujr danagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class120 = [
+dabhagujr halagujr hanagujr hannagujr havagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr
+];
+
+@gujr_class121 = [
+dabagujr davagujr ghagujr gharagujr hagujr hanuktagujr nagujr nanuktagujr naragujr naranuktagujr vagujr varagujr yagujr yaragujr
+];
+
+@gujr_class126 = [
+dabagujr davagujr hagujr hanuktagujr nagujr nanuktagujr naragujr naranuktagujr tagujr
+];
+
+@gujr_class130 = [
+dabagujr davagujr hagujr hanuktagujr nagujr nanuktagujr naragujr naranuktagujr pagujr panuktagujr paragujr paranuktagujr thagujr tharagujr yagujr yaragujr
+];
+
+@gujr_class133 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr haragujr haranuktagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttanuktagujr ttaranuktagujr ttattagujr ttatthagujr tthanuktagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class134 = [
+dabhagujr halagujr hanagujr hannagujr havagujr vagujr varagujr
+];
+
+@gujr_class135 = [
+dabagujr davagujr hagujr hanuktagujr nagujr nanuktagujr naragujr naranuktagujr pagujr panuktagujr paragujr paranuktagujr ssagujr ssaragujr
+];
+
+@gujr_class140 = [
+dabhagujr hagujr halagujr hanagujr hannagujr hanuktagujr havagujr nagujr naragujr vagujr varagujr
+];
+
+@gujr_class141 = [
+dabagujr davagujr dhagujr magujr maragujr nanuktagujr naranuktagujr pagujr panuktagujr paragujr paranuktagujr tagujr tanuktagujr yagujr yaragujr
+];
+
+@gujr_class145 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr hanagujr haragujr haranuktagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class146 = [
+dabhagujr hagujr halagujr hannagujr hanuktagujr havagujr
+];
+
+@gujr_class147 = [
+dabagujr davagujr nagujr nanuktagujr naragujr naranuktagujr pagujr panuktagujr paragujr paranuktagujr ssagujr ssanuktagujr ssaragujr ssaranuktagujr tagujr tanuktagujr taragujr taranuktagujr vagujr vanuktagujr varagujr varanuktagujr
+];
+
+@gujr_class151 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class152 = [
+dabagujr davagujr nagujr nanuktagujr naragujr naranuktagujr pagujr panuktagujr paragujr paranuktagujr ssagujr ssanuktagujr ssaragujr ssaranuktagujr tagujr tanuktagujr taragujr taranuktagujr vagujr vanuktagujr varagujr varanuktagujr yagujr yaragujr
+];
+
+@gujr_class156 = [
+dabagujr davagujr nagujr nanuktagujr naragujr naranuktagujr pagujr panuktagujr paragujr paranuktagujr ssagujr ssanuktagujr ssaragujr ssaranuktagujr tagujr tanuktagujr taragujr taranuktagujr vanuktagujr varanuktagujr yagujr yaragujr
+];
+
+@gujr_class159 = [
+ragujr ranuktagujr raragujr raranuktagujr ttagujr ttaragujr
+];
+
+@gujr_class160 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ttanuktagujr ttaranuktagujr ttattagujr ttatthagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class165 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class166 = [
+dabhagujr hagujr hanuktagujr magujr maragujr pagujr paragujr yagujr yaragujr
+];
+
+@gujr_class167 = [
+dabagujr davagujr lagujr laragujr manuktagujr maranuktagujr nagujr nanuktagujr naragujr naranuktagujr panuktagujr paranuktagujr ssagujr ssanuktagujr ssaragujr ssaranuktagujr tagujr tanuktagujr taragujr taranuktagujr vagujr vanuktagujr varagujr varanuktagujr yanuktagujr yaranuktagujr
+];
+
+@gujr_class172 = [
+dagagujr danagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr hagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class173 = [
+dabhagujr davagujr hanuktagujr nagujr nanuktagujr naragujr naranuktagujr pagujr paragujr tagujr yagujr yaragujr
+];
+
+@gujr_class174 = [
+chagujr chanuktagujr charagujr charanuktagujr chavagujr dabagujr dayagujr dhagujr dhanuktagujr dharagujr dharanuktagujr lagujr laragujr magujr manuktagujr maragujr maranuktagujr nanagujr panuktagujr paranuktagujr ssagujr ssanuktagujr ssaragujr ssaranuktagujr tanuktagujr taragujr taranuktagujr vagujr vanuktagujr varagujr varanuktagujr yanuktagujr yaranuktagujr
+];
+
+@gujr_class181 = [
+dabagujr dabhagujr davagujr hagujr hanuktagujr nagujr nanuktagujr naragujr naranuktagujr
+];
+
+@gujr_class182 = [
+chagujr chanuktagujr charagujr charanuktagujr chavagujr dayagujr dhagujr dhanuktagujr dharagujr dharanuktagujr magujr manuktagujr maragujr maranuktagujr nanagujr pagujr panuktagujr paragujr paranuktagujr ssagujr ssanuktagujr ssaragujr ssaranuktagujr tagujr tanuktagujr taragujr taranuktagujr vagujr vanuktagujr varagujr varanuktagujr yagujr yanuktagujr yaragujr yaranuktagujr
+];
+
+@gujr_class187 = [
+dadagujr dagujr danuktagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr kagujr kanuktagujr karagujr phagujr phanuktagujr pharagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class188 = [
+dagagujr danagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr pharanuktagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class189 = [
+dabagujr dabhagujr davagujr hagujr hanuktagujr magujr maragujr nagujr nanuktagujr naragujr naranuktagujr pagujr panuktagujr paragujr paranuktagujr tagujr tanuktagujr vagujr varagujr
+];
+
+@gujr_class19 = [
+dadagujr dagujr danuktagujr ddaddagujr ddaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr kagujr kanuktagujr phagujr phanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class190 = [
+chagujr chanuktagujr charagujr charanuktagujr chavagujr dayagujr dhagujr dhanuktagujr dharagujr dharanuktagujr ghagujr ghanuktagujr gharagujr gharanuktagujr jhagujr jhanuktagujr jharagujr jharanuktagujr lagujr laragujr manuktagujr maranuktagujr nanagujr ssagujr ssanuktagujr ssaragujr ssaranuktagujr taragujr taranuktagujr thagujr thanuktagujr tharagujr tharanuktagujr vanuktagujr varanuktagujr yagujr yanuktagujr yaragujr yaranuktagujr
+];
+
+@gujr_class195 = [
+dadagujr dagujr danuktagujr daragujr davagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttanuktagujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class196 = [
+dabhagujr dagagujr danagujr daranuktagujr hagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class197 = [
+dabagujr dhagujr hanuktagujr magujr maragujr nagujr nanuktagujr naragujr naranuktagujr pagujr panuktagujr paragujr paranuktagujr ssagujr ssanuktagujr ssaragujr ssaranuktagujr tagujr tanuktagujr taragujr taranuktagujr vagujr vanuktagujr varagujr varanuktagujr yagujr yaragujr
+];
+
+@gujr_class198 = [
+chagujr chanuktagujr charagujr charanuktagujr chavagujr dadhagujr daghagujr dayagujr dhanuktagujr dharagujr dharanuktagujr ghagujr ghanuktagujr gharagujr gharanuktagujr jagujr januktagujr jaragujr jaranuktagujr jhagujr jhanuktagujr jharagujr jharanuktagujr manuktagujr maranuktagujr nanagujr sagujr sanuktagujr thagujr thanuktagujr tharagujr tharanuktagujr yanuktagujr yaranuktagujr zhagujr zharagujr
+];
+
+@gujr_class2 = [
+aigujr augujr ecandragujr egujr ocandragujr ogujr
+];
+
+@gujr_class20 = [
+dagagujr danagujr daragujr daranuktagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr pharagujr pharanuktagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class203 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class204 = [
+dabagujr davagujr hagujr halagujr hanagujr hannagujr hanuktagujr haragujr haranuktagujr havagujr nagujr nanuktagujr naragujr naranuktagujr panuktagujr paranuktagujr
+];
+
+@gujr_class205 = [
+cagujr canuktagujr caragujr caranuktagujr chagujr chanuktagujr charagujr charanuktagujr chavagujr dabhagujr dadhagujr daghagujr dayagujr dhagujr dhanuktagujr dharagujr dharanuktagujr gagujr ganuktagujr garagujr garanuktagujr ghagujr ghanuktagujr gharagujr gharanuktagujr jhagujr jhanuktagujr jharagujr jharanuktagujr lagujr lanuktagujr laragujr laranuktagujr magujr manuktagujr maragujr maranuktagujr nanagujr ssagujr ssanuktagujr ssaragujr ssaranuktagujr ssattagujr ssattaragujr tagujr tanuktagujr taragujr taranuktagujr thagujr thanuktagujr tharagujr tharanuktagujr vagujr vanuktagujr varagujr varanuktagujr yagujr yanuktagujr yaragujr yaranuktagujr
+];
+
+@gujr_class206 = [
+bagujr banuktagujr baragujr baranuktagujr damagujr ganagujr janyagujr janyaragujr kassagujr khagujr khanuktagujr kharagujr kharanuktagujr llagujr llanuktagujr llaragujr llaranuktagujr napreformaltgujr nyagujr nyanuktagujr nyaragujr nyaranuktagujr sagujr sanuktagujr saragujr saranuktagujr shagujr shanagujr shanuktagujr sharagujr sharanuktagujr ssatthagujr ssattharagujr tatagujr 
+];
+
+@gujr_class207 = [
+badagujr bhagujr bhanuktagujr bharagujr bharanuktagujr hamagujr hayagujr jagujr januktagujr jaragujr jaranuktagujr kakagujr kassaragujr nnagujr nnanuktagujr nnaragujr nnaranuktagujr nyacagujr nyajagujr sapreformaltgujr zhagujr zharagujr
+];
+
+@gujr_class208 = [
+badagujr bagujr banuktagujr baragujr baranuktagujr bhagujr bhanuktagujr bharagujr bharanuktagujr cagujr canuktagujr caragujr caranuktagujr chagujr chanuktagujr charagujr charanuktagujr chavagujr dadhagujr daghagujr damagujr ddayagujr gagujr ganagujr ganuktagujr garagujr garanuktagujr hamagujr hayagujr janyagujr janyaragujr kakagujr kassagujr kassaragujr khagujr khanuktagujr kharagujr kharanuktagujr llagujr llanuktagujr llaragujr llaranuktagujr mapreformaltgujr napreformaltgujr nnagujr nnanuktagujr nnaragujr nnaranuktagujr nyacagujr nyagujr nyajagujr nyanuktagujr nyaragujr nyaranuktagujr papreformaltgujr sapreformaltgujr saragujr saranuktagujr shacagujr shagujr shanagujr shanuktagujr sharagujr sharanuktagujr shavagujr ssattagujr ssattaragujr ssatthagujr ssattharagujr tatagujr ttavagujr ttayagujr
+];
+
+@gujr_class209 = [
+jhanuktaprehalfgujr jhaprehalfgujr jharanuktaprehalfgujr jharaprehalfgujr uni0AFB uni0AFC uni0AFD uni0AFE uni0AFF
+];
+
+@gujr_class211 = [
+dabagujr dabhagujr dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr davagujr dayagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr dhagujr dhanuktagujr dharagujr dharanuktagujr ghagujr ghanuktagujr gharagujr gharanuktagujr hagujr halagujr hanagujr hannagujr hanuktagujr haragujr haranuktagujr havagujr jagujr januktagujr jaragujr jaranuktagujr jhagujr jhanuktagujr jharagujr jharanuktagujr kagujr kanuktagujr karagujr karanuktagujr lagujr lanuktagujr laragujr laranuktagujr magujr manuktagujr maragujr maranuktagujr nagujr nanagujr nanuktagujr naragujr naranuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr pagujr panuktagujr paragujr paranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr sagujr sanuktagujr ssagujr ssanuktagujr ssaragujr ssaranuktagujr tagujr tanuktagujr taragujr taranuktagujr thagujr thanuktagujr tharagujr tharanuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr vagujr vanuktagujr varagujr varanuktagujr yagujr yanuktagujr yaragujr yaranuktagujr zhagujr zharagujr
+];
+
+@gujr_class23 = [
+dadagujr dagujr danuktagujr ddaddagujr ddaddhagujr ddagujr ddaragujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr kagujr kanuktagujr phagujr phanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class24 = [
+dagagujr danagujr daragujr daranuktagujr ddanuktagujr ddaranuktagujr ddhaddhagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr pharagujr pharanuktagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class27 = [
+dadagujr dagujr danuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr kagujr kanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class28 = [
+dagagujr danagujr daragujr daranuktagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr karagujr karanuktagujr pharagujr pharanuktagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class3 = [
+dadagujr dagujr danuktagujr ddagujr ddaragujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class31 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class310 = [
+ivowelsign1gujr ivowelsign2gujr ivowelsign3gujr ivowelsign4gujr ivowelsign5gujr ivowelsign6gujr ivowelsigndefaultgujr
+];
+
+@gujr_PreHalfForms = [
+banuktaprehalfgujr baprehalfgujr baranuktaprehalfgujr baraprehalfgujr bhanuktaprehalfgujr bhaprehalfgujr bharanuktaprehalfgujr bharaprehalfgujr canuktaprehalfgujr caprehalfgujr caranuktaprehalfgujr caraprehalfgujr danuktaprehalfgujr daprehalfgujr daranuktaprehalfgujr daraprehalfgujr ddanuktaprehalfgujr ddaprehalfgujr ddaranuktaprehalfgujr ddaraprehalfgujr ddhanuktaprehalfgujr ddhaprehalfgujr ddharanuktaprehalfgujr ddharaprehalfgujr dhanuktaprehalfgujr dhaprehalfgujr dharanuktaprehalfgujr dharaprehalfgujr ganuktaprehalfgujr gaprehalfgujr garanuktaprehalfgujr garaprehalfgujr ghanuktaprehalfgujr ghaprehalfgujr gharanuktaprehalfgujr gharaprehalfgujr hanuktaprehalfgujr haprehalfgujr haranuktaprehalfgujr haraprehalfgujr janyaprehalfgujr janyaraprehalfgujr jhanuktaprehalfgujr jhaprehalfgujr jharanuktaprehalfgujr jharaprehalfgujr kanuktaprehalfgujr kaprehalfgujr karanuktaprehalfgujr karaprehalfgujr kassaprehalfgujr kassaraprehalfgujr khanuktaprehalfgujr khaprehalfgujr kharanuktaprehalfgujr kharaprehalfgujr lanuktaprehalfgujr laprehalfgujr laranuktaprehalfgujr laraprehalfgujr llanuktaprehalfgujr llaprehalfgujr llaranuktaprehalfgujr llaraprehalfgujr manuktaprehalfgujr mapreformaltgujr maprehalfgujr maranuktaprehalfgujr maraprehalfgujr nanuktaprehalfgujr napreformaltgujr naprehalfgujr naranuktaprehalfgujr naraprehalfgujr nganuktaprehalfgujr ngaprehalfgujr ngaranuktaprehalfgujr ngaraprehalfgujr nnanuktaprehalfgujr nnaprehalfgujr nnaranuktaprehalfgujr nnaraprehalfgujr nyanuktaprehalfgujr nyaprehalfgujr nyaranuktaprehalfgujr nyaraprehalfgujr panuktaprehalfgujr papreformaltgujr paprehalfgujr paranuktaprehalfgujr paraprehalfgujr phanuktaprehalfgujr phaprehalfgujr pharanuktaprehalfgujr pharaprehalfgujr ranuktaprehalfgujr raprehalfgujr raranuktaprehalfgujr raraprehalfgujr sanuktaprehalfgujr sapreformaltgujr saprehalfgujr saranuktaprehalfgujr saraprehalfgujr shanuktaprehalfgujr shapreformaltgujr shaprehalfgujr sharanuktaprehalfgujr sharaprehalfgujr ssanuktaprehalfgujr ssaprehalfgujr ssaranuktaprehalfgujr ssaraprehalfgujr tanuktaprehalfgujr taprehalfgujr taranuktaprehalfgujr taraprehalfgujr tatapreformgujr thanuktaprehalfgujr thaprehalfgujr tharanuktaprehalfgujr tharaprehalfgujr ttanuktaprehalfgujr ttaprehalfgujr ttaranuktaprehalfgujr ttaraprehalfgujr tthanuktaprehalfgujr tthaprehalfgujr ttharanuktaprehalfgujr ttharaprehalfgujr vanuktaprehalfgujr vaprehalfgujr varanuktaprehalfgujr varaprehalfgujr yanuktaprehalfgujr yaprehalfgujr yaranuktaprehalfgujr yaraprehalfgujr
+];
+
+@gujr_class32 = [
+halagujr hanagujr hannagujr haragujr haranuktagujr havagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class335 = [
+bagujr banuktagujr baragujr baranuktagujr bhagujr bhanuktagujr bharagujr bharanuktagujr cagujr canuktagujr caragujr caranuktagujr chayagujr damagujr dayagujr ddayagujr ddhayagujr dhagujr dhanuktagujr dharagujr dharanuktagujr gagujr ganagujr ganuktagujr garagujr garanuktagujr ghagujr ghanuktagujr gharagujr gharanuktagujr halagujr hamagujr hanagujr hannagujr haragujr haranuktagujr havagujr hayagujr janyagujr janyaragujr jayagujr kassagujr kassaragujr kayagujr khagujr khanuktagujr kharagujr kharanuktagujr khayagujr lagujr lanuktagujr laragujr laranuktagujr llagujr llanuktagujr llaragujr llaranuktagujr llayagujr magujr manuktagujr maragujr maranuktagujr nagujr nanagujr nanuktagujr naragujr naranuktagujr ngayagujr nnagujr nnanuktagujr nnaragujr nnaranuktagujr nyacagujr nyagujr nyajagujr nyanuktagujr nyaragujr nyaranuktagujr pagujr panuktagujr paragujr paranuktagujr phayagujr sagujr sanuktagujr saragujr saranuktagujr sataragujr sathagujr shacagujr shagujr shalagujr shanagujr shanuktagujr sharagujr sharanuktagujr shavagujr ssagujr ssanuktagujr ssaragujr ssaranuktagujr tagujr tanuktagujr taragujr taranuktagujr tatagujr thagujr thanuktagujr tharagujr tharanuktagujr ttavagujr ttayagujr tthayagujr vagujr vanuktagujr varagujr varanuktagujr vayagujr yagujr yanuktagujr yaragujr yaranuktagujr
+];
+
+@gujr_class337 = [
+chavagujr ddaddagujr ddaddhagujr ddhaddhagujr ngagagujr ngaghagujr ngakagujr ngamagujr ttattagujr ttatthagujr tthatthagujr
+];
+
+@gujr_class340 = [
+dadagujr dadhagujr dagagujr daghagujr danagujr daragujr daranuktagujr
+];
+
+@gujr_class343 = [
+charagujr charanuktagujr ddaragujr ddaranuktagujr ddharagujr ddharanuktagujr jaragujr jaranuktagujr ngaragujr ngaranuktagujr raragujr raranuktagujr ssattaragujr ssattharagujr ttaragujr ttaranuktagujr ttharagujr ttharanuktagujr zharagujr
+];
+
+@gujr_class346 = [
+dabhagujr dagagujr danagujr dhanuktastemgujr halastemgujr hanastemgujr hannastemgujr haranuktastemgujr harastemgujr havastemgujr lanuktastemgujr llanuktastemgujr phanuktaaltgujr pharanuktaaltgujr sanuktastemgujr shanuktastemgujr
+];
+
+@gujr_class347 = [
+chanuktagujr danuktagujr hanuktagujr januktagujr jhanuktagujr jharanuktagujr nganuktagujr ttanuktagujr tthanuktagujr
+];
+
+@gujr_class35 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttanuktagujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class352 = [
+garanuktastemgujr ghanuktastemgujr gharanuktastemgujr kharanuktastemgujr tanuktastemgujr taranuktastemgujr yaranuktastemgujr
+];
+
+@gujr_class355 = [
+dabagujr dabhagujr dadhagujr dagagujr daghagujr danagujr daragujr daranuktagujr davagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr jaragujr jaranuktagujr llagujr llanuktagujr llaragujr llaranuktagujr
+];
+
+@gujr_class356 = [
+badagujr chagujr chanuktagujr charagujr charanuktagujr chavagujr dadagujr dagujr danuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr hagujr halagujr hanagujr hannagujr hanuktagujr haragujr haranuktagujr havagujr jhagujr jhanuktagujr jharagujr jharanuktagujr kagujr kakagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ssattagujr ssattaragujr ssatthagujr ssattharagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class357 = [
+badagujr chagujr chanuktagujr chanuktasquishgujr charagujr charanuktagujr chasquishgujr chavagujr dabagujr dabhagujr dadagujr dadasquishgujr dadhagujr dagagujr daghagujr dagujr danagujr danuktagujr daragujr daranuktagujr davagujr ddaddagujr ddaddaugujr ddaddhagujr ddagujr ddanuktagujr ddanuktasquishgujr ddanuktauuvowelgujr ddanuktauvowelgujr ddaragujr ddaranuktagujr ddasquishgujr ddhaddhagujr ddhagujr ddhanuktagujr ddhanuktasquishgujr ddhanuktauuvowelgujr ddhanuktauvowelgujr ddharagujr ddharanuktagujr ddhasquishgujr hagujr halagujr halastemgujr hanagujr hanastemgujr hannagujr hannastemgujr hanuktagujr haragujr haranuktagujr haranuktastemgujr harastemgujr havagujr havastemgujr jagujr januktagujr jaragujr jaranuktagujr kagujr kakagujr kanuktagujr kanuktauuvowelgujr kanuktauvowelgujr karagujr karanuktagujr karanuktauuvowelgujr karanuktauvowelgujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr nganuktasquishgujr ngaragujr ngaranuktagujr ngasquishgujr phaaltgujr phagujr phanuktaaltgujr phanuktagujr phanuktasquishgujr pharaaltgujr pharagujr pharanuktaaltgujr pharanuktagujr pharanuktasquishgujr pharasquishgujr phasquishgujr ragujr ranuktagujr ranuktasquishgujr raragujr raranuktagujr rasquishgujr rauvowelgujr rauvowelnuktagujr ssattagujr ssattaragujr ssatthagujr ssattharagujr ttagujr ttanuktagujr ttanuktasquishgujr ttaragujr ttaranuktagujr ttasquishgujr ttattagujr ttattaugujr ttattauugujr ttatthagujr ttatthauugujr tthagujr tthanuktagujr tthanuktasquishgujr ttharagujr ttharanuktagujr tthasquishgujr tthatthagujr tthatthaugujr zhagujr zharagujr
+];
+
+@gujr_class358 = [
+halastemgujr hanastemgujr hannastemgujr haranuktastemgujr harastemgujr havastemgujr hayastemgujr
+];
+
+@gujr_class359 = [
+badagujr chagujr dagujr ddagujr ddhagujr hagujr jagujr kagujr kakagujr karagujr ngagujr ssattagujr ssatthagujr ttagujr tthagujr zhagujr
+];
+
+@gujr_class39 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr haragujr haranuktagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class5 = [
+bhanuktaprehalfgujr bhaprehalfgujr bharanuktaprehalfgujr bharaprehalfgujr haranuktaprehalfgujr haraprehalfgujr nnaranuktaprehalfgujr nnaraprehalfgujr
+];
+
+@gujr_class51 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr haragujr haranuktagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttanuktagujr ttaranuktagujr ttattagujr ttatthagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class55 = [
+dadagujr dagujr danuktagujr ragujr ranuktagujr raragujr raranuktagujr
+];
+
+@gujr_class56 = [
+dagagujr danagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class59 = [
+dadagujr dagujr danuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr
+];
+
+@gujr_class6 = [
+dadagujr dagujr danuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class60 = [
+dagagujr danagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ttattagujr ttatthagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class85 = [
+dabhagujr hagujr hanuktagujr tagujr yagujr yaragujr
+];
+
+@gujr_class9 = [
+dadagujr dagagujr dagujr danagujr danuktagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr haragujr haranuktagujr kagujr kanuktagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr phagujr phanuktagujr pharagujr pharanuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr tthatthagujr
+];
+
+@gujr_class93 = [
+dadagujr dagujr danuktagujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr kagujr kanuktagujr phagujr phanuktagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class94 = [
+dagagujr danagujr daragujr daranuktagujr ddaddagujr ddaddhagujr ddagujr ddanuktagujr ddaragujr ddaranuktagujr ddhaddhagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr karagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr pharagujr pharanuktagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_class97 = [
+dadagujr dagujr danuktagujr ddaddagujr ddaddhagujr ddagujr ddaragujr ddhagujr ddhanuktagujr ddharagujr ddharanuktagujr kagujr kanuktagujr karagujr phagujr phanuktagujr pharagujr ragujr ranuktagujr raragujr raranuktagujr ttagujr ttanuktagujr ttaragujr ttaranuktagujr ttattagujr ttatthagujr
+];
+
+@gujr_class98 = [
+dagagujr danagujr daragujr daranuktagujr ddanuktagujr ddaranuktagujr ddhaddhagujr hagujr halagujr hanagujr hannagujr haragujr haranuktagujr havagujr karanuktagujr ngagagujr ngaghagujr ngagujr ngakagujr ngamagujr nganuktagujr ngaragujr ngaranuktagujr pharanuktagujr tthagujr tthanuktagujr ttharagujr ttharanuktagujr tthatthagujr
+];
+
+@gujr_markAttachmentSet1 = [
+nuktagujr uvowelsigngujr uuvowelsigngujr rvocalicvowelsigngujr rrvocalicvowelsigngujr viramagujr lvocalicvowelsigngujr llvocalicvowelsigngujr vattugujr uvattulowgujr uvattunuktalowgujr uuvattulowgujr uuvattunuktalowgujr rvocalicvattulowgujr rvocalicvattunuktalowgujr rrvocalicvattugujr lvocalicvattugujr vocalicvattugujr viramavattulowgujr viramavattunuktalowgujr uvowelsignlowgujr uuvowelsignlowgujr rvocalicvowelsignlowgujr viramalowgujr dummymarkgujr uvowelsignnuktagujr uuvowelsignnuktagujr rvocalicvowelsignnuktagujr rrvocalicvowelsignnuktagujr lvocalicvowelsignnuktagujr llvocalicvowelsignnuktagujr uvowelsignnuktaleftgujr uuvowelsignnuktaleftgujr rvocalicvowelsignnuktaleftgujr rrvocalicvowelsignnuktaleftgujr lvocalicvowelsignnuktaleftgujr llvocalicvowelsignnuktaleftgujr uvowelsignnarrowgujr uvowelsignnarrowlowgujr viramanuktagujr uni0951 uni0952
+];
+
+@gujr_markAttachmentSet3 = [
+candrabindugujr anusvaragujr ecandravowelsigngujr evowelsigngujr aivowelsigngujr uni0AFA uni0AFB uni0AFC uni0AFD uni0AFE uni0AFF rephgujr ecandravowelsignanusvaragujr ecandravowelsignrephgujr ecandravowelrephanusvaragujr evowelsignanusvaragujr evowelsignrephgujr evowelsignrephanusvaragujr aivowelsignanusvaragujr aivowelsignrephgujr aivowelsignrephanusvaragujr rephanusvaragujr candrabinduleftgujr anusvaraleftgujr rephleftgujr rephanusvaraleftgujr uni0AFB_uni0AFA uni0AFD_uni0AFA uni0AFE_uni0AFA uni0AFF_uni0AFA uni0AFD_uni0AFB uni0AFE_uni0AFB uni0AFF_uni0AFB uni0AFA_rephgujr uni0AFD.alt uni0AFD_uni0AFC uni0AFE_evowelgujr uni0AFE_aivowelgujr uni0AFF_evowelgujr uni0AFF_aivowelgujr uni0AFD_rephgujr uni0AFE_rephgujr uni0AFF_rephgujr uni0AFD_evowelgujr_rephgujr uni0AFD_aivowelgujr_rephgujr uni0AFE_evowelgujr_rephgujr uni0AFE_aivowelgujr_rephgujr uni0AFF_evowelgujr_rephgujr uni0AFF_aivowelgujr_rephgujr
+];
+
+@gujr_pagujr = [
+pagujr ssagujr panuktagujr ssanuktagujr paprehalfgujr ssaprehalfgujr panuktaprehalfgujr ssanuktaprehalfgujr paragujr ssaragujr paranuktagujr ssaranuktagujr paraprehalfgujr ssaraprehalfgujr paranuktaprehalfgujr ssaranuktaprehalfgujr ssattagujr ssattaragujr ssatthagujr ssattharagujr pastemgujr ssastemgujr panuktastemgujr ssanuktastemgujr parastemgujr ssarastemgujr paranuktastemgujr ssaranuktastemgujr
+];
+
+@gujr_ragujr = [
+ragujr sagujr ranuktagujr sanuktagujr raprehalfgujr saprehalfgujr ranuktaprehalfgujr sanuktaprehalfgujr raragujr saragujr raranuktagujr saranuktagujr raraprehalfgujr saraprehalfgujr raranuktaprehalfgujr saranuktaprehalfgujr sataragujr rauvowelgujr rauvowelnuktagujr sastemgujr sanuktastemgujr sarastemgujr saranuktastemgujr satarastemgujr sathagujr sathapreformgujr sathastemgujr sapreformaltgujr
+];
+
+@gujr_ghagujr = [
+ghagujr ghanuktagujr ghaprehalfgujr ghanuktaprehalfgujr gharagujr gharanuktagujr gharaprehalfgujr gharanuktaprehalfgujr ghastemgujr ghanuktastemgujr gharastemgujr gharanuktastemgujr
+];
+
+@gujr_dagujr = [
+dagujr daprehalfgujr badagujr
+];
+
+@gujr_jagujr2 = [
+jagujr zhagujr januktagujr japrehalfgujr zhaprehalfgujr januktaprehalfgujr jaragujr zharagujr jaranuktagujr jaraprehalfgujr zharaprehalfgujr jaranuktaprehalfgujr jayagujr jaaavowelgujr jaiivowelgujr jaaavowelnuktagujr jaiivowelnuktagujr jayastemgujr
+];
+
+@gujr_ttagujr = [
+ttagujr ttanuktagujr ttaprehalfgujr ttaragujr ssattagujr ssattaragujr
+];
+
+@gujr_kaprehalfgujr = [
+kaprehalfgujr phaprehalfgujr karaprehalfgujr pharaprehalfgujr
+];
+
+@gujr_japrehalfgujr = [
+japrehalfgujr zhaprehalfgujr januktaprehalfgujr
+];
+
+@gujr_gaprehalfgujr = [
+gaprehalfgujr nnaprehalfgujr
+];
+
+@gujr_thaprehalfgujr = [
+thaprehalfgujr sathapreformgujr
+];
+
+@gujr_taprehalfgujr = [
+taprehalfgujr tatapreformgujr
+];
+
+@gujr_ngagujr = [
+ngagujr ddagujr nganuktagujr ddanuktagujr ngaprehalfgujr ddaprehalfgujr nganuktaprehalfgujr ddanuktaprehalfgujr ngaragujr ddaragujr ngaranuktagujr ddaranuktagujr ngaraprehalfgujr ddaraprehalfgujr ngaranuktaprehalfgujr ddaranuktaprehalfgujr ngayagujr ddayagujr ngayastemgujr ddayastemgujr ddanuktauvowelgujr ddanuktauuvowelgujr
+];
+
+@gujr_nnagujr = [
+nnagujr nnanuktagujr nnaprehalfgujr nnanuktaprehalfgujr nnaragujr nnaranuktagujr nnaraprehalfgujr nnaranuktaprehalfgujr nnauvowelgujr nnarauvowelgujr nnauvowelnuktagujr nnarauvowelnuktagujr nnastemgujr nnanuktastemgujr nnarastemgujr nnaranuktastemgujr
+];
+
+@gujr_kagujr = [
+kagujr kanuktagujr kaprehalfgujr kanuktaprehalfgujr karagujr karanuktagujr karaprehalfgujr karanuktaprehalfgujr kakagujr kayagujr kayastemgujr kanuktauvowelgujr karanuktauvowelgujr kanuktauuvowelgujr karanuktauuvowelgujr
+];
+
+@gujr_nagujr = [
+nagujr nanuktagujr naprehalfgujr nanuktaprehalfgujr naragujr naranuktagujr naraprehalfgujr naranuktaprehalfgujr nanagujr nastemgujr nanuktastemgujr narastemgujr naranuktastemgujr nanastemgujr napreformaltgujr
+];
+
+@gujr_gagujr = [
+gagujr ganuktagujr gaprehalfgujr ganuktaprehalfgujr garagujr garanuktagujr garaprehalfgujr garanuktaprehalfgujr ganagujr gastemgujr ganuktastemgujr garastemgujr garanuktastemgujr ganastemgujr
+];
+
+@gujr_khagujr = [
+khagujr khanuktagujr khaprehalfgujr khanuktaprehalfgujr kharagujr kharanuktagujr kharaprehalfgujr kharanuktaprehalfgujr khastemgujr khanuktastemgujr kharastemgujr kharanuktastemgujr khayagujr khayastemgujr
+];
+
+@gujr_llagujr = [
+llagujr llanuktagujr llaprehalfgujr llanuktaprehalfgujr llaragujr llaranuktagujr llaraprehalfgujr llaranuktaprehalfgujr llayagujr llastemgujr llanuktastemgujr llarastemgujr llaranuktastemgujr llayastemgujr
+];
+
+@gujr_phagujr = [
+phagujr phanuktagujr phaprehalfgujr phanuktaprehalfgujr pharagujr pharanuktagujr pharaprehalfgujr pharanuktaprehalfgujr phayagujr phaaltgujr pharaaltgujr phanuktaaltgujr pharanuktaaltgujr phayastemgujr
+];
+
+@gujr_vagujr = [
+vagujr vanuktagujr vaprehalfgujr vanuktaprehalfgujr varagujr varanuktagujr varaprehalfgujr varanuktaprehalfgujr vastemgujr vanuktastemgujr varastemgujr varanuktastemgujr vayagujr vayastemgujr
+];
+
+@gujr_bagujr = [
+bagujr banuktagujr banuktaprehalfgujr baragujr baranuktagujr baraprehalfgujr baranuktaprehalfgujr bastemgujr banuktastemgujr barastemgujr baranuktastemgujr badagujr
+];
+
+@gujr_bhagujr = [
+bhagujr bhanuktagujr bhaprehalfgujr bhanuktaprehalfgujr bharagujr bharanuktagujr bharaprehalfgujr bharanuktaprehalfgujr bhastemgujr bhanuktastemgujr bharastemgujr bharanuktastemgujr
+];
+
+@gujr_cagujr = [
+cagujr canuktagujr caprehalfgujr canuktaprehalfgujr caragujr caranuktagujr caraprehalfgujr caranuktaprehalfgujr castemgujr canuktastemgujr carastemgujr caranuktastemgujr
+];
+
+@gujr_dhagujr = [
+dhagujr dhanuktagujr dhaprehalfgujr dhanuktaprehalfgujr dharagujr dharanuktagujr dharaprehalfgujr dharanuktaprehalfgujr dhastemgujr dhanuktastemgujr dharastemgujr dharanuktastemgujr
+];
+
+@gujr_lagujr = [
+lagujr lanuktagujr laprehalfgujr lanuktaprehalfgujr laragujr laranuktagujr laraprehalfgujr laranuktaprehalfgujr lastemgujr lanuktastemgujr larastemgujr laranuktastemgujr
+];
+
+@gujr_magujr = [
+magujr manuktagujr maprehalfgujr manuktaprehalfgujr maragujr maranuktagujr maraprehalfgujr maranuktaprehalfgujr mastemgujr manuktastemgujr marastemgujr maranuktastemgujr
+];
+
+@gujr_thagujr = [
+thagujr thanuktagujr thaprehalfgujr thanuktaprehalfgujr tharagujr tharanuktagujr tharaprehalfgujr tharanuktaprehalfgujr thastemgujr thanuktastemgujr tharastemgujr tharanuktastemgujr
+];
+
+@gujr_ttagujr2 = [
+ttagujr ttanuktagujr ttaprehalfgujr ttanuktaprehalfgujr ttaragujr ttaranuktagujr ttaraprehalfgujr ttaranuktaprehalfgujr ttayagujr ttavagujr ttayastemgujr ttavastemgujr
+];
+
+@gujr_yagujr = [
+yagujr yanuktagujr yaprehalfgujr yanuktaprehalfgujr yaragujr yaranuktagujr yaraprehalfgujr yaranuktaprehalfgujr yastemgujr yanuktastemgujr yarastemgujr yaranuktastemgujr
+];
+
+@gujr_chagujr = [
+chagujr chanuktagujr chaprehalfgujr chanuktaprehalfgujr charagujr charanuktagujr charaprehalfgujr charanuktaprehalfgujr chayagujr chavagujr chayastemgujr
+];
+
+@gujr_nyagujr = [
+nyagujr nyanuktagujr nyaprehalfgujr nyanuktaprehalfgujr nyaragujr nyaranuktagujr nyaraprehalfgujr nyaranuktaprehalfgujr nyastemgujr nyanuktastemgujr nyarastemgujr
+];
+
+@gujr_daragujr = [
+daragujr daranuktagujr daraprehalfgujr daranuktaprehalfgujr dagagujr danagujr dagasquishgujr danasquishgujr darasquishgujr daranuktasquishgujr
+];
+
+@gujr_tthagujr = [
+tthagujr tthanuktagujr tthaprehalfgujr tthanuktaprehalfgujr ttharagujr ttharanuktagujr ttharaprehalfgujr ttharanuktaprehalfgujr tthayagujr tthayastemgujr
+];
+
+@gujr_dagujr2 = [
+dagujr danuktagujr daprehalfgujr danuktaprehalfgujr dadagujr darvocalicvowelgujr darvocalicvowelnuktagujr dadasquishgujr
+];
+
+@gujr_jhagujr = [
+jhagujr jhanuktagujr jhaprehalfgujr jhanuktaprehalfgujr jharagujr jharanuktagujr jharaprehalfgujr jharanuktaprehalfgujr
+];
+
+@gujr_ttattagujr = [
+ttattagujr ttattaugujr ttattauugujr ttatthagujr ttatthauugujr ttasquishgujr ttanuktasquishgujr
+];
+
+@gujr_janyagujr = [
+janyagujr janyaprehalfgujr janyaragujr janyaraprehalfgujr janyastemgujr janyarastemgujr
+];
+
+@gujr_kassagujr = [
+kassagujr kassaprehalfgujr kassaragujr kassaraprehalfgujr kassastemgujr kassarastemgujr
+];
+
+@gujr_shagujr = [
+shagujr shanuktagujr shaprehalfgujr shanuktaprehalfgujr shastemgujr shanuktastemgujr
+];
+
+@gujr_tagujr = [
+tagujr tanuktagujr taprehalfgujr tanuktaprehalfgujr tastemgujr tanuktastemgujr
+];
+
+@gujr_dabagujr = [
+dabagujr davagujr daghasquishgujr dadhasquishgujr
+];
+
+@gujr_tthatthagujr = [
+tthatthagujr tthatthaugujr tthasquishgujr tthanuktasquishgujr
+];
+
+@gujr_hagujr = [
+hagujr hanuktagujr
+];
+
+@gujr_jagujr = [
+jagujr zhagujr januktagujr jaragujr zharagujr jaranuktagujr
+];
+
+@gujr_dist = [
+kagujr ngagujr chagujr jagujr ttagujr tthagujr ddagujr ddhagujr dagujr hagujr zhagujr karagujr kakagujr ssattagujr ssatthagujr badagujr
+];
+
+@gujr_harast = [
+harastemgujr haranuktastemgujr hannastemgujr hanastemgujr hayastemgujr halastemgujr havastemgujr
+];
+
+@gujr_uvow1 = [
+uvowelsigngujr uuvowelsigngujr rvocalicvowelsigngujr uvowelsignnarrowgujr
+];
+
+@gujr_uvow2 = [
+uvowelsigngujr uuvowelsigngujr rvocalicvowelsigngujr uvowelsignnuktagujr uuvowelsignnuktagujr rvocalicvowelsignnuktagujr
+];
+
+@gujr_All = [
+    \NULL CR space candrabindugujr anusvaragujr visargagujr agujr aagujr igujr iigujr ugujr uugujr rvocalicgujr lvocalicgujr ecandragujr egujr aigujr ocandragujr ogujr augujr kagujr khagujr gagujr ghagujr ngagujr cagujr chagujr jagujr jhagujr nyagujr ttagujr tthagujr ddagujr ddhagujr nnagujr tagujr thagujr dagujr dhagujr nagujr pagujr phagujr bagujr bhagujr magujr yagujr ragujr lagujr llagujr vagujr shagujr ssagujr sagujr hagujr nuktagujr avagrahagujr aavowelsigngujr ivowelsigngujr iivowelsigngujr uvowelsigngujr uuvowelsigngujr rvocalicvowelsigngujr rrvocalicvowelsigngujr ecandravowelsigngujr evowelsigngujr aivowelsigngujr ocandravowelsigngujr ovowelsigngujr auvowelsigngujr viramagujr omgujr rrvocalicgujr llvocalicgujr lvocalicvowelsigngujr llvocalicvowelsigngujr zerogujr onegujr twogujr threegujr fourgujr fivegujr sixgujr sevengujr eightgujr ninegujr uni0AF0 uni0AF1 zhagujr uni0AFA uni0AFB uni0AFC uni0AFD uni0AFE uni0AFF kanuktagujr khanuktagujr ganuktagujr ghanuktagujr nganuktagujr canuktagujr chanuktagujr januktagujr jhanuktagujr nyanuktagujr ttanuktagujr tthanuktagujr ddanuktagujr ddhanuktagujr nnanuktagujr tanuktagujr thanuktagujr danuktagujr dhanuktagujr nanuktagujr panuktagujr phanuktagujr banuktagujr bhanuktagujr manuktagujr yanuktagujr ranuktagujr lanuktagujr llanuktagujr vanuktagujr shanuktagujr ssanuktagujr sanuktagujr hanuktagujr kassagujr janyagujr rephgujr vattugujr kaprehalfgujr khaprehalfgujr gaprehalfgujr ghaprehalfgujr ngaprehalfgujr caprehalfgujr chaprehalfgujr japrehalfgujr jhaprehalfgujr nyaprehalfgujr ttaprehalfgujr tthaprehalfgujr ddaprehalfgujr ddhaprehalfgujr nnaprehalfgujr taprehalfgujr thaprehalfgujr daprehalfgujr dhaprehalfgujr naprehalfgujr paprehalfgujr phaprehalfgujr baprehalfgujr bhaprehalfgujr maprehalfgujr yaprehalfgujr raprehalfgujr laprehalfgujr llaprehalfgujr vaprehalfgujr shaprehalfgujr ssaprehalfgujr saprehalfgujr haprehalfgujr zhaprehalfgujr kassaprehalfgujr janyaprehalfgujr kanuktaprehalfgujr khanuktaprehalfgujr ganuktaprehalfgujr ghanuktaprehalfgujr nganuktaprehalfgujr canuktaprehalfgujr chanuktaprehalfgujr januktaprehalfgujr jhanuktaprehalfgujr nyanuktaprehalfgujr ttanuktaprehalfgujr tthanuktaprehalfgujr ddanuktaprehalfgujr ddhanuktaprehalfgujr nnanuktaprehalfgujr tanuktaprehalfgujr thanuktaprehalfgujr danuktaprehalfgujr dhanuktaprehalfgujr nanuktaprehalfgujr panuktaprehalfgujr phanuktaprehalfgujr banuktaprehalfgujr bhanuktaprehalfgujr manuktaprehalfgujr yanuktaprehalfgujr ranuktaprehalfgujr lanuktaprehalfgujr llanuktaprehalfgujr vanuktaprehalfgujr shanuktaprehalfgujr ssanuktaprehalfgujr sanuktaprehalfgujr hanuktaprehalfgujr karagujr kharagujr garagujr gharagujr ngaragujr caragujr charagujr jaragujr jharagujr nyaragujr ttaragujr ttharagujr ddaragujr ddharagujr nnaragujr taragujr tharagujr daragujr dharagujr naragujr paragujr pharagujr baragujr bharagujr maragujr yaragujr raragujr laragujr llaragujr varagujr sharagujr ssaragujr saragujr haragujr zharagujr kassaragujr janyaragujr karanuktagujr kharanuktagujr garanuktagujr gharanuktagujr ngaranuktagujr caranuktagujr charanuktagujr jaranuktagujr jharanuktagujr nyaranuktagujr ttaranuktagujr ttharanuktagujr ddaranuktagujr ddharanuktagujr nnaranuktagujr taranuktagujr tharanuktagujr daranuktagujr dharanuktagujr naranuktagujr paranuktagujr pharanuktagujr baranuktagujr bharanuktagujr maranuktagujr yaranuktagujr raranuktagujr laranuktagujr llaranuktagujr varanuktagujr sharanuktagujr ssaranuktagujr saranuktagujr haranuktagujr karaprehalfgujr kharaprehalfgujr garaprehalfgujr gharaprehalfgujr ngaraprehalfgujr ngaraprehalfUIgujr caraprehalfgujr charaprehalfgujr charaprehalfUIgujr jaraprehalfgujr jharaprehalfgujr nyaraprehalfgujr ttaraprehalfgujr ttaraprehalfUIgujr ttharaprehalfgujr ttharaprehalfUIgujr ddaraprehalfgujr ddaraprehalfUIgujr ddharaprehalfgujr ddharaprehalfUIgujr nnaraprehalfgujr taraprehalfgujr tharaprehalfgujr daraprehalfgujr daraprehalfUIgujr dharaprehalfgujr naraprehalfgujr paraprehalfgujr pharaprehalfgujr baraprehalfgujr bharaprehalfgujr maraprehalfgujr yaraprehalfgujr raraprehalfgujr raraprehalfUIgujr laraprehalfgujr llaraprehalfgujr varaprehalfgujr sharaprehalfgujr ssaraprehalfgujr saraprehalfgujr haraprehalfgujr zharaprehalfgujr kassaraprehalfgujr janyaraprehalfgujr karanuktaprehalfgujr kharanuktaprehalfgujr garanuktaprehalfgujr gharanuktaprehalfgujr ngaranuktaprehalfgujr ngaranuktaprehalfUIgujr caranuktaprehalfgujr charanuktaprehalfgujr charanuktaprehalfUIgujr jaranuktaprehalfgujr jharanuktaprehalfgujr nyaranuktaprehalfgujr ttaranuktaprehalfgujr ttaranuktaprehalfUIgujr ttharanuktaprehalfgujr ttharanuktaprehalfUIgujr ddaranuktaprehalfgujr ddaranuktaprehalfUIgujr ddharanuktaprehalfgujr ddharanuktaprehalfUIgujr nnaranuktaprehalfgujr taranuktaprehalfgujr tharanuktaprehalfgujr daranuktaprehalfgujr dharanuktaprehalfgujr naranuktaprehalfgujr paranuktaprehalfgujr pharanuktaprehalfgujr baranuktaprehalfgujr bharanuktaprehalfgujr maranuktaprehalfgujr yaranuktaprehalfgujr raranuktaprehalfgujr raranuktaprehalfUIgujr laranuktaprehalfgujr llaranuktaprehalfgujr varanuktaprehalfgujr sharanuktaprehalfgujr ssaranuktaprehalfgujr saranuktaprehalfgujr haranuktaprehalfgujr kakagujr kayagujr ganagujr ngakagujr ngagagujr ngaghagujr ngamagujr ngayagujr chayagujr chavagujr jayagujr nyacagujr nyajagujr ttattagujr ttattaugujr ttattauugujr ttatthagujr ttatthauugujr ttayagujr ttavagujr tthatthagujr tthatthaugujr tthayagujr ddaddagujr ddaddaugujr ddaddhagujr ddayagujr ddhaddhagujr ddhayagujr tatagujr dagagujr daghagujr dadagujr dadhagujr danagujr dabagujr dabhagujr damagujr dayagujr davagujr nanagujr phayagujr llayagujr shacagujr shanagujr shalagujr shavagujr ssattagujr ssattaragujr ssatthagujr ssattharagujr sataragujr hannagujr hanagujr hamagujr hayagujr halagujr havagujr tatapreformgujr shapreformaltgujr ivowelsigndefaultgujr ivowelsignanusvaragujr ivowelsignrephgujr ivowelsignrephanusvaragujr iivowelsignanusvaragujr iivowelsignrephgujr iivowelsignrephanusvaragujr ecandravowelsignanusvaragujr ecandravowelsignrephgujr ecandravowelrephanusvaragujr evowelsignanusvaragujr evowelsignrephgujr evowelsignrephanusvaragujr aivowelsignanusvaragujr aivowelsignrephgujr aivowelsignrephanusvaragujr ocandravowelsignanusvaragujr ocandravowelsignrephgujr ocandravowelrephanusvaragujr ovowelsignanusvaragujr ovowelsignrephgujr ovowelsignrephanusvaragujr auvowelsignanusvaragujr auvowelsignrephgujr auvowelsignrephanusvaragujr rephanusvaragujr uanusvaragujr uuanusvaragujr ianusvaragujr iianusvaragujr ecandraanusvaragujr eanusvaragujr aianusvaragujr ocandraanusvaragujr oanusvaragujr auanusvaragujr jaaavowelgujr jaiivowelgujr nnauvowelgujr nnarauvowelgujr darvocalicvowelgujr rauvowelgujr rauuvowelgujr harvocalicvowelgujr phaaltgujr pharaaltgujr jaaavowelnuktagujr jaiivowelnuktagujr zhaaavowelgujr zhaiivowelgujr nnauvowelnuktagujr nnarauvowelnuktagujr darvocalicvowelnuktagujr rauvowelnuktagujr rauuvowelnuktagujr harvocalicvowelnuktagujr phanuktaaltgujr pharanuktaaltgujr khastemgujr gastemgujr ghastemgujr castemgujr nyastemgujr nnastemgujr tastemgujr thastemgujr dhastemgujr nastemgujr pastemgujr bastemgujr bhastemgujr mastemgujr yastemgujr lastemgujr llastemgujr vastemgujr shastemgujr ssastemgujr sastemgujr kassastemgujr janyastemgujr khanuktastemgujr ganuktastemgujr ghanuktastemgujr canuktastemgujr nyanuktastemgujr nnanuktastemgujr tanuktastemgujr thanuktastemgujr dhanuktastemgujr nanuktastemgujr panuktastemgujr banuktastemgujr bhanuktastemgujr manuktastemgujr yanuktastemgujr lanuktastemgujr llanuktastemgujr vanuktastemgujr shanuktastemgujr ssanuktastemgujr sanuktastemgujr kharastemgujr garastemgujr gharastemgujr carastemgujr nyarastemgujr nnarastemgujr tarastemgujr tharastemgujr dharastemgujr narastemgujr parastemgujr barastemgujr bharastemgujr marastemgujr yarastemgujr larastemgujr llarastemgujr varastemgujr sharastemgujr ssarastemgujr sarastemgujr harastemgujr kassarastemgujr janyarastemgujr kharanuktastemgujr garanuktastemgujr gharanuktastemgujr caranuktastemgujr nyaranuktastemgujr nnaranuktastemgujr taranuktastemgujr tharanuktastemgujr dharanuktastemgujr naranuktastemgujr paranuktastemgujr baranuktastemgujr bharanuktastemgujr maranuktastemgujr yaranuktastemgujr laranuktastemgujr llaranuktastemgujr varanuktastemgujr sharanuktastemgujr ssaranuktastemgujr saranuktastemgujr haranuktastemgujr kayastemgujr ganastemgujr ngayastemgujr chayastemgujr jayastemgujr nyacastemgujr nyajastemgujr ttayastemgujr ttavastemgujr tthayastemgujr ddayastemgujr ddhayastemgujr tatastemgujr damastemgujr dayastemgujr nanastemgujr phayastemgujr llayastemgujr shacastemgujr shanastemgujr shalastemgujr shavastemgujr satarastemgujr hannastemgujr hanastemgujr hamastemgujr hayastemgujr halastemgujr havastemgujr ngasquishgujr chasquishgujr jasquishgujr ttasquishgujr tthasquishgujr ddasquishgujr ddhasquishgujr zhasquishgujr dagasquishgujr daghasquishgujr dadasquishgujr dadhasquishgujr danasquishgujr darasquishgujr phasquishgujr pharasquishgujr phasquishaltgujr pharasquishaltgujr rasquishgujr nganuktasquishgujr chanuktasquishgujr januktasquishgujr ttanuktasquishgujr tthanuktasquishgujr ddanuktasquishgujr ddhanuktasquishgujr daranuktasquishgujr phanuktasquishgujr pharanuktasquishgujr phanuktasquishaltgujr pharanuktassquishaltgujr ranuktasquishgujr uvattugujr uvattulowgujr uvattunuktalowgujr uuvattugujr uuvattulowgujr uuvattunuktalowgujr rvocalicvattugujr rvocalicvattulowgujr rvocalicvattunuktalowgujr rrvocalicvattugujr lvocalicvattugujr vocalicvattugujr viramavattugujr viramavattulowgujr viramavattunuktalowgujr uvowelsignlowgujr uuvowelsignlowgujr rvocalicvowelsignlowgujr rrvocalicvowelsignlowgujr lvocalicvowelsignlowgujr llvocalicvowelsignlowgujr viramalowgujr nuktasmallgujr ivowelsign1gujr ivowelsign2gujr ivowelsign3gujr ivowelsign4gujr ivowelsign5gujr ivowelsign6gujr ivowelsignanusvara1gujr ivowelsignanusvara2gujr ivowelsignanusvara3gujr ivowelsignanusvara4gujr ivowelsignanusvara5gujr ivowelsignanusvara6gujr ivowelsignreph1gujr ivowelsignreph2gujr ivowelsignreph3gujr ivowelsignreph4gujr ivowelsignreph5gujr ivowelsignreph6gujr ivowelsignrephanusvara1gujr ivowelsignrephanusvara2gujr ivowelsignrephanusvara3gujr ivowelsignrephanusvara4gujr ivowelsignrephanusvara5gujr ivowelsignrephanusvara6gujr dummymarkgujr iivowelsign1gujr iivowelsign2gujr iivowelsignanusvara1gujr iivowelsignanusvara2gujr iivowelsignreph1gujr iivowelsignreph2gujr iivowelsignrephanusvara1gujr iivowelsignrephanusvara2gujr uvowelsignnuktagujr uuvowelsignnuktagujr rvocalicvowelsignnuktagujr rrvocalicvowelsignnuktagujr lvocalicvowelsignnuktagujr llvocalicvowelsignnuktagujr uvowelsignnuktaleftgujr uuvowelsignnuktaleftgujr rvocalicvowelsignnuktaleftgujr rrvocalicvowelsignnuktaleftgujr lvocalicvowelsignnuktaleftgujr llvocalicvowelsignnuktaleftgujr uvowelsignnarrowgujr uvowelsignnarrowlowgujr candrabinduleftgujr anusvaraleftgujr rephleftgujr rephanusvaraleftgujr viramanuktagujr kanuktauvowelgujr ddanuktauvowelgujr ddhanuktauvowelgujr phanuktauvowelgujr karanuktauvowelgujr pharanuktauvowelgujr kanuktauuvowelgujr ddanuktauuvowelgujr ddhanuktauuvowelgujr phanuktauuvowelgujr karanuktauuvowelgujr pharanuktauuvowelgujr uni0951 uni0952 uniA830 uniA831 uniA832 uniA833 uniA834 uniA835 uniA836 uniA837 uniA838 uniA839 uni2010 uni200B uni200C uni200D uni25CC khayagujr khayastemgujr badagujr vayagujr vayastemgujr sathagujr sathapreformgujr sathastemgujr napreformaltgujr papreformaltgujr mapreformaltgujr sapreformaltgujr uni0AFB_uni0AFA uni0AFD_uni0AFA uni0AFE_uni0AFA uni0AFF_uni0AFA uni0AFD_uni0AFB uni0AFE_uni0AFB uni0AFF_uni0AFB uni0AFA_rephgujr uni0AFD.alt uni0AFD_evowelgujr uni0AFD_aivowelgujr uni0AFD_ovowelgujr uni0AFD_auvowelgujr uni0AFD_uni0AFC uni0AFE_evowelgujr uni0AFE_aivowelgujr uni0AFF_evowelgujr uni0AFF_aivowelgujr uni0AFD_rephgujr uni0AFE_rephgujr uni0AFF_rephgujr uni0AFD_evowelgujr_rephgujr uni0AFD_aivowelgujr_rephgujr uni0AFE_evowelgujr_rephgujr uni0AFE_aivowelgujr_rephgujr uni0AFF_evowelgujr_rephgujr uni0AFF_aivowelgujr_rephgujr uni0AFD_ovowelgujr_rephgujr uni0AFD_auvowelgujr_rephgujr uuvowelsigngujr.alt uvowelsigngujr.alt
+];
+
+# --------
+# lookups
+# --------
+lookup GujrMultipleSubstitution17 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 16 
+    sub ecandragujr by agujr ecandravowelsigngujr;
+    sub egujr by agujr evowelsigngujr;
+    sub aigujr by agujr aivowelsigngujr;
+    sub ocandragujr by agujr ocandravowelsigngujr;
+    sub ogujr by agujr ovowelsigngujr;
+    sub augujr by agujr auvowelsigngujr;
+} GujrMultipleSubstitution17;
+
+lookup GujrSingleSubstitution70 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 69 
+    sub ivowelsigngujr by ivowelsign3gujr;
+} GujrSingleSubstitution70;
+
+lookup GujrSingleSubstitution74 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 73 
+    sub ivowelsigngujr by ivowelsigndefaultgujr;
+} GujrSingleSubstitution74;
+
+lookup GujrSingleSubstitution73 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 72 
+    sub ivowelsigngujr by ivowelsign6gujr;
+} GujrSingleSubstitution73;
+
+lookup GujrSingleSubstitution72 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 71 
+    sub ivowelsigngujr by ivowelsign5gujr;
+} GujrSingleSubstitution72;
+
+lookup GujrSingleSubstitution71 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 70 
+    sub ivowelsigngujr by ivowelsign4gujr;
+} GujrSingleSubstitution71;
+
+
+lookup GujrContextualGSUB66 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 65 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [jhaprehalfgujr jhanuktaprehalfgujr jharaprehalfgujr jharanuktaprehalfgujr]' @gujr_class3';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [jhaprehalfgujr jhanuktaprehalfgujr jharaprehalfgujr jharanuktaprehalfgujr]' uni200D' @gujr_class3';
+} GujrContextualGSUB66;
+
+lookup GujrContextualGSUB65 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 64 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 @gujr_class5' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 @gujr_class5' uni200D' @gujr_class6';
+} GujrContextualGSUB65;
+
+lookup GujrContextualGSUB64 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 63 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [nnaprehalfgujr nnanuktaprehalfgujr]' [ragujr ranuktagujr raragujr raranuktagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [nnaprehalfgujr nnanuktaprehalfgujr]' @gujr_class9';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [nnaprehalfgujr nnanuktaprehalfgujr]' uni200D' [ragujr ranuktagujr raragujr raranuktagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [nnaprehalfgujr nnanuktaprehalfgujr]' uni200D' @gujr_class9';
+} GujrContextualGSUB64;
+
+lookup GujrContextualGSUB63 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 62 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [khaprehalfgujr khanuktaprehalfgujr kharaprehalfgujr kharanuktaprehalfgujr]' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [khaprehalfgujr khanuktaprehalfgujr kharaprehalfgujr kharanuktaprehalfgujr]' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [khaprehalfgujr khanuktaprehalfgujr kharaprehalfgujr kharanuktaprehalfgujr]' uni200D' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [khaprehalfgujr khanuktaprehalfgujr kharaprehalfgujr kharanuktaprehalfgujr]' uni200D' @gujr_class12';
+} GujrContextualGSUB63;
+
+lookup GujrContextualGSUB62 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 61 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 kassaraprehalfgujr' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 kassaraprehalfgujr' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 kassaraprehalfgujr' uni200D' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 kassaraprehalfgujr' uni200D' @gujr_class12';
+} GujrContextualGSUB62;
+
+lookup GujrContextualGSUB61 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 60 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [llaraprehalfgujr llaranuktaprehalfgujr]' @gujr_class19';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [llaraprehalfgujr llaranuktaprehalfgujr]' @gujr_class20';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [llaraprehalfgujr llaranuktaprehalfgujr]' uni200D' @gujr_class19';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [llaraprehalfgujr llaranuktaprehalfgujr]' uni200D' @gujr_class20';
+} GujrContextualGSUB61;
+
+lookup GujrContextualGSUB60 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 59 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [baprehalfgujr banuktaprehalfgujr baraprehalfgujr baranuktaprehalfgujr]' @gujr_class23';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [baprehalfgujr banuktaprehalfgujr baraprehalfgujr baranuktaprehalfgujr]' @gujr_class24';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [baprehalfgujr banuktaprehalfgujr baraprehalfgujr baranuktaprehalfgujr]' uni200D' @gujr_class23';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [baprehalfgujr banuktaprehalfgujr baraprehalfgujr baranuktaprehalfgujr]' uni200D' @gujr_class24';
+} GujrContextualGSUB60;
+
+lookup GujrContextualGSUB59 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 58 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [llaprehalfgujr llanuktaprehalfgujr]' @gujr_class27';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [llaprehalfgujr llanuktaprehalfgujr]' @gujr_class28';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [llaprehalfgujr llanuktaprehalfgujr]' uni200D' @gujr_class27';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [llaprehalfgujr llanuktaprehalfgujr]' uni200D' @gujr_class28';
+} GujrContextualGSUB59;
+
+lookup GujrContextualGSUB58 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 57 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [saraprehalfgujr saranuktaprehalfgujr]' @gujr_class31';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [saraprehalfgujr saranuktaprehalfgujr]' @gujr_class32';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [saraprehalfgujr saranuktaprehalfgujr]' uni200D' @gujr_class31';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [saraprehalfgujr saranuktaprehalfgujr]' uni200D' @gujr_class32';
+} GujrContextualGSUB58;
+
+lookup GujrContextualGSUB57 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 56 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [saprehalfgujr sanuktaprehalfgujr]' @gujr_class35';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [saprehalfgujr sanuktaprehalfgujr]' @gujr_class32';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [saprehalfgujr sanuktaprehalfgujr]' [ttagujr ttaragujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [saprehalfgujr sanuktaprehalfgujr]' uni200D' @gujr_class35';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [saprehalfgujr sanuktaprehalfgujr]' uni200D' @gujr_class32';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [saprehalfgujr sanuktaprehalfgujr]' uni200D' [ttagujr ttaragujr]';
+} GujrContextualGSUB57;
+
+lookup GujrContextualGSUB56 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 55 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [pharaprehalfgujr pharanuktaprehalfgujr]' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [pharaprehalfgujr pharanuktaprehalfgujr]' [hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [pharaprehalfgujr pharanuktaprehalfgujr]' uni200D' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [pharaprehalfgujr pharanuktaprehalfgujr]' uni200D' [hannagujr hanagujr halagujr havagujr]';
+} GujrContextualGSUB56;
+
+lookup GujrContextualGSUB55 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 54 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [karaprehalfgujr karanuktaprehalfgujr]' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [karaprehalfgujr karanuktaprehalfgujr]' [hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [karaprehalfgujr karanuktaprehalfgujr]' uni200D' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [karaprehalfgujr karanuktaprehalfgujr]' uni200D' [hannagujr hanagujr halagujr havagujr]';
+} GujrContextualGSUB55;
+
+lookup GujrContextualGSUB54 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 53 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 janyaraprehalfgujr' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 janyaraprehalfgujr' [hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 janyaraprehalfgujr' uni200D' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 janyaraprehalfgujr' uni200D' [hannagujr hanagujr halagujr havagujr]';
+} GujrContextualGSUB54;
+
+lookup GujrContextualGSUB53 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 52 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [sharaprehalfgujr sharanuktaprehalfgujr]' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [sharaprehalfgujr sharanuktaprehalfgujr]' [hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [sharaprehalfgujr sharanuktaprehalfgujr]' uni200D' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [sharaprehalfgujr sharanuktaprehalfgujr]' uni200D' [hannagujr hanagujr halagujr havagujr]';
+} GujrContextualGSUB53;
+
+lookup GujrContextualGSUB52 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 51 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [tthaprehalfgujr tthanuktaprehalfgujr ttharaprehalfgujr ttharanuktaprehalfgujr]' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [tthaprehalfgujr tthanuktaprehalfgujr ttharaprehalfgujr ttharanuktaprehalfgujr]' [hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [tthaprehalfgujr tthanuktaprehalfgujr ttharaprehalfgujr ttharanuktaprehalfgujr]' uni200D' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [tthaprehalfgujr tthanuktaprehalfgujr ttharaprehalfgujr ttharanuktaprehalfgujr]' uni200D' [hannagujr hanagujr halagujr havagujr]';
+} GujrContextualGSUB52;
+
+lookup GujrContextualGSUB51 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 50 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ddhaprehalfgujr ddhanuktaprehalfgujr ddharaprehalfgujr ddharanuktaprehalfgujr]' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ddhaprehalfgujr ddhanuktaprehalfgujr ddharaprehalfgujr ddharanuktaprehalfgujr]' [hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ddhaprehalfgujr ddhanuktaprehalfgujr ddharaprehalfgujr ddharanuktaprehalfgujr]' uni200D' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ddhaprehalfgujr ddhanuktaprehalfgujr ddharaprehalfgujr ddharanuktaprehalfgujr]' uni200D' [hannagujr hanagujr halagujr havagujr]';
+} GujrContextualGSUB51;
+
+lookup GujrContextualGSUB50 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 49 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [phaprehalfgujr phanuktaprehalfgujr]' [ttagujr ttaragujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [phaprehalfgujr phanuktaprehalfgujr]' @gujr_class51';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [phaprehalfgujr phanuktaprehalfgujr]' [dabhagujr hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [phaprehalfgujr phanuktaprehalfgujr]' uni200D' [ttagujr ttaragujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [phaprehalfgujr phanuktaprehalfgujr]' uni200D' @gujr_class51';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [phaprehalfgujr phanuktaprehalfgujr]' uni200D' [dabhagujr hannagujr hanagujr halagujr havagujr]';
+} GujrContextualGSUB50;
+
+lookup GujrContextualGSUB49 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 48 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [kaprehalfgujr kanuktaprehalfgujr]' [ttagujr ttaragujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [kaprehalfgujr kanuktaprehalfgujr]' @gujr_class51';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [kaprehalfgujr kanuktaprehalfgujr]' [dabhagujr hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [kaprehalfgujr kanuktaprehalfgujr]' uni200D' [ttagujr ttaragujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [kaprehalfgujr kanuktaprehalfgujr]' uni200D' @gujr_class51';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [kaprehalfgujr kanuktaprehalfgujr]' uni200D' [dabhagujr hannagujr hanagujr halagujr havagujr]';
+} GujrContextualGSUB49;
+
+lookup GujrContextualGSUB48 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 47 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [nyaprehalfgujr nyanuktaprehalfgujr nyaraprehalfgujr nyaranuktaprehalfgujr]' @gujr_class55';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [nyaprehalfgujr nyanuktaprehalfgujr nyaraprehalfgujr nyaranuktaprehalfgujr]' @gujr_class56';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [nyaprehalfgujr nyanuktaprehalfgujr nyaraprehalfgujr nyaranuktaprehalfgujr]' dabhagujr';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [nyaprehalfgujr nyanuktaprehalfgujr nyaraprehalfgujr nyaranuktaprehalfgujr]' uni200D' @gujr_class55';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [nyaprehalfgujr nyanuktaprehalfgujr nyaraprehalfgujr nyaranuktaprehalfgujr]' uni200D' @gujr_class56';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [nyaprehalfgujr nyanuktaprehalfgujr nyaraprehalfgujr nyaranuktaprehalfgujr]' uni200D' dabhagujr';
+} GujrContextualGSUB48;
+
+lookup GujrContextualGSUB47 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 46 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [ngaprehalfgujr nganuktaprehalfgujr ngaraprehalfgujr ngaranuktaprehalfgujr]' @gujr_class59';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ngaprehalfgujr nganuktaprehalfgujr ngaraprehalfgujr ngaranuktaprehalfgujr]' @gujr_class60';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ngaprehalfgujr nganuktaprehalfgujr ngaraprehalfgujr ngaranuktaprehalfgujr]' dabhagujr';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [ngaprehalfgujr nganuktaprehalfgujr ngaraprehalfgujr ngaranuktaprehalfgujr]' uni200D' @gujr_class59';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ngaprehalfgujr nganuktaprehalfgujr ngaraprehalfgujr ngaranuktaprehalfgujr]' uni200D' @gujr_class60';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ngaprehalfgujr nganuktaprehalfgujr ngaraprehalfgujr ngaranuktaprehalfgujr]' uni200D' dabhagujr';
+} GujrContextualGSUB47;
+
+lookup GujrContextualGSUB46 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 45 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [daraprehalfgujr daranuktaprehalfgujr]' @gujr_class59';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [daraprehalfgujr daranuktaprehalfgujr]' @gujr_class60';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [daraprehalfgujr daranuktaprehalfgujr]' dabhagujr';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [daraprehalfgujr daranuktaprehalfgujr]' uni200D' @gujr_class59';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [daraprehalfgujr daranuktaprehalfgujr]' uni200D' @gujr_class60';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [daraprehalfgujr daranuktaprehalfgujr]' uni200D' dabhagujr';
+} GujrContextualGSUB46;
+
+lookup GujrContextualGSUB45 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 44 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 kassaprehalfgujr' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 kassaprehalfgujr' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 kassaprehalfgujr' [hagujr hanuktagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 kassaprehalfgujr' uni200D' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 kassaprehalfgujr' uni200D' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 kassaprehalfgujr' uni200D' [hagujr hanuktagujr dabhagujr]';
+} GujrContextualGSUB45;
+
+lookup GujrContextualGSUB44 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 43 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 janyaprehalfgujr' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 janyaprehalfgujr' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 janyaprehalfgujr' [hagujr hanuktagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 janyaprehalfgujr' uni200D' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 janyaprehalfgujr' uni200D' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 janyaprehalfgujr' uni200D' [hagujr hanuktagujr dabhagujr]';
+} GujrContextualGSUB44;
+
+lookup GujrContextualGSUB43 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 42 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [ddaprehalfgujr ddanuktaprehalfgujr ddaraprehalfgujr ddaranuktaprehalfgujr]' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ddaprehalfgujr ddanuktaprehalfgujr ddaraprehalfgujr ddaranuktaprehalfgujr]' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ddaprehalfgujr ddanuktaprehalfgujr ddaraprehalfgujr ddaranuktaprehalfgujr]' [hagujr hanuktagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [ddaprehalfgujr ddanuktaprehalfgujr ddaraprehalfgujr ddaranuktaprehalfgujr]' uni200D' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ddaprehalfgujr ddanuktaprehalfgujr ddaraprehalfgujr ddaranuktaprehalfgujr]' uni200D' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ddaprehalfgujr ddanuktaprehalfgujr ddaraprehalfgujr ddaranuktaprehalfgujr]' uni200D' [hagujr hanuktagujr dabhagujr]';
+} GujrContextualGSUB43;
+
+lookup GujrContextualGSUB42 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 41 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [haprehalfgujr hanuktaprehalfgujr]' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [haprehalfgujr hanuktaprehalfgujr]' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [haprehalfgujr hanuktaprehalfgujr]' [hagujr hanuktagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [haprehalfgujr hanuktaprehalfgujr]' uni200D' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [haprehalfgujr hanuktaprehalfgujr]' uni200D' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [haprehalfgujr hanuktaprehalfgujr]' uni200D' [hagujr hanuktagujr dabhagujr]';
+} GujrContextualGSUB42;
+
+lookup GujrContextualGSUB41 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 40 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [caprehalfgujr canuktaprehalfgujr caraprehalfgujr caranuktaprehalfgujr]' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [caprehalfgujr canuktaprehalfgujr caraprehalfgujr caranuktaprehalfgujr]' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [caprehalfgujr canuktaprehalfgujr caraprehalfgujr caranuktaprehalfgujr]' @gujr_class85';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [caprehalfgujr canuktaprehalfgujr caraprehalfgujr caranuktaprehalfgujr]' uni200D' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [caprehalfgujr canuktaprehalfgujr caraprehalfgujr caranuktaprehalfgujr]' uni200D' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [caprehalfgujr canuktaprehalfgujr caraprehalfgujr caranuktaprehalfgujr]' uni200D' @gujr_class85';
+} GujrContextualGSUB41;
+
+lookup GujrContextualGSUB40 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 39 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [daprehalfgujr danuktaprehalfgujr]' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [daprehalfgujr danuktaprehalfgujr]' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [daprehalfgujr danuktaprehalfgujr]' [pagujr hagujr hanuktagujr paragujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [daprehalfgujr danuktaprehalfgujr]' uni200D' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [daprehalfgujr danuktaprehalfgujr]' uni200D' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [daprehalfgujr danuktaprehalfgujr]' uni200D' [pagujr hagujr hanuktagujr paragujr dabhagujr]';
+} GujrContextualGSUB40;
+
+lookup GujrContextualGSUB39 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 38 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 tatapreformgujr' @gujr_class93';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 tatapreformgujr' @gujr_class94';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 tatapreformgujr' [hagujr hanuktagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 tatapreformgujr' uni200D' @gujr_class93';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 tatapreformgujr' uni200D' @gujr_class94';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 tatapreformgujr' uni200D' [hagujr hanuktagujr dabhagujr]';
+} GujrContextualGSUB39;
+
+lookup GujrContextualGSUB38 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 37 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [laprehalfgujr lanuktaprehalfgujr laraprehalfgujr laranuktaprehalfgujr]' @gujr_class97';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [laprehalfgujr lanuktaprehalfgujr laraprehalfgujr laranuktaprehalfgujr]' @gujr_class98';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [laprehalfgujr lanuktaprehalfgujr laraprehalfgujr laranuktaprehalfgujr]' [vagujr hanuktagujr varagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [laprehalfgujr lanuktaprehalfgujr laraprehalfgujr laranuktaprehalfgujr]' uni200D' @gujr_class97';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [laprehalfgujr lanuktaprehalfgujr laraprehalfgujr laranuktaprehalfgujr]' uni200D' @gujr_class98';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [laprehalfgujr lanuktaprehalfgujr laraprehalfgujr laranuktaprehalfgujr]' uni200D' [vagujr hanuktagujr varagujr dabhagujr]';
+} GujrContextualGSUB38;
+
+lookup GujrContextualGSUB37 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 36 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [garaprehalfgujr garanuktaprehalfgujr]' @gujr_class27';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [garaprehalfgujr garanuktaprehalfgujr]' @gujr_class28';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [garaprehalfgujr garanuktaprehalfgujr]' @gujr_class103';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [garaprehalfgujr garanuktaprehalfgujr]' uni200D' @gujr_class27';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [garaprehalfgujr garanuktaprehalfgujr]' uni200D' @gujr_class28';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [garaprehalfgujr garanuktaprehalfgujr]' uni200D' @gujr_class103';
+} GujrContextualGSUB37;
+
+lookup GujrContextualGSUB36 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 35 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [ttaprehalfgujr ttanuktaprehalfgujr ttaraprehalfgujr ttaranuktaprehalfgujr]' @gujr_class107';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ttaprehalfgujr ttanuktaprehalfgujr ttaraprehalfgujr ttaranuktaprehalfgujr]' @gujr_class108';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ttaprehalfgujr ttanuktaprehalfgujr ttaraprehalfgujr ttaranuktaprehalfgujr]' @gujr_class109';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [ttaprehalfgujr ttanuktaprehalfgujr ttaraprehalfgujr ttaranuktaprehalfgujr]' uni200D' @gujr_class107';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ttaprehalfgujr ttanuktaprehalfgujr ttaraprehalfgujr ttaranuktaprehalfgujr]' uni200D' @gujr_class108';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ttaprehalfgujr ttanuktaprehalfgujr ttaraprehalfgujr ttaranuktaprehalfgujr]' uni200D' @gujr_class109';
+} GujrContextualGSUB36;
+
+lookup GujrContextualGSUB35 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 34 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [raprehalfgujr ranuktaprehalfgujr raraprehalfgujr raranuktaprehalfgujr]' @gujr_class31';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [raprehalfgujr ranuktaprehalfgujr raraprehalfgujr raranuktaprehalfgujr]' @gujr_class114';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [raprehalfgujr ranuktaprehalfgujr raraprehalfgujr raranuktaprehalfgujr]' @gujr_class109';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [raprehalfgujr ranuktaprehalfgujr raraprehalfgujr raranuktaprehalfgujr]' uni200D' @gujr_class31';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [raprehalfgujr ranuktaprehalfgujr raraprehalfgujr raranuktaprehalfgujr]' uni200D' @gujr_class114';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [raprehalfgujr ranuktaprehalfgujr raraprehalfgujr raranuktaprehalfgujr]' uni200D' @gujr_class109';
+} GujrContextualGSUB35;
+
+lookup GujrContextualGSUB34 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 33 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [ghaprehalfgujr ghanuktaprehalfgujr gharaprehalfgujr gharanuktaprehalfgujr]' @gujr_class119';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ghaprehalfgujr ghanuktaprehalfgujr gharaprehalfgujr gharanuktaprehalfgujr]' @gujr_class120';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ghaprehalfgujr ghanuktaprehalfgujr gharaprehalfgujr gharanuktaprehalfgujr]' @gujr_class121';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [ghaprehalfgujr ghanuktaprehalfgujr gharaprehalfgujr gharanuktaprehalfgujr]' uni200D' @gujr_class119';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ghaprehalfgujr ghanuktaprehalfgujr gharaprehalfgujr gharanuktaprehalfgujr]' uni200D' @gujr_class120';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ghaprehalfgujr ghanuktaprehalfgujr gharaprehalfgujr gharanuktaprehalfgujr]' uni200D' @gujr_class121';
+} GujrContextualGSUB34;
+
+lookup GujrContextualGSUB33 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 32 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [shaprehalfgujr shanuktaprehalfgujr]' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [shaprehalfgujr shanuktaprehalfgujr]' [dabhagujr hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [shaprehalfgujr shanuktaprehalfgujr]' @gujr_class126';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [shaprehalfgujr shanuktaprehalfgujr]' uni200D' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [shaprehalfgujr shanuktaprehalfgujr]' uni200D' [dabhagujr hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [shaprehalfgujr shanuktaprehalfgujr]' uni200D' @gujr_class126';
+} GujrContextualGSUB33;
+
+lookup GujrContextualGSUB32 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 31 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [thaprehalfgujr thanuktaprehalfgujr tharaprehalfgujr tharanuktaprehalfgujr]' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [thaprehalfgujr thanuktaprehalfgujr tharaprehalfgujr tharanuktaprehalfgujr]' [dabhagujr hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [thaprehalfgujr thanuktaprehalfgujr tharaprehalfgujr tharanuktaprehalfgujr]' @gujr_class130';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [thaprehalfgujr thanuktaprehalfgujr tharaprehalfgujr tharanuktaprehalfgujr]' uni200D' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [thaprehalfgujr thanuktaprehalfgujr tharaprehalfgujr tharanuktaprehalfgujr]' uni200D' [dabhagujr hannagujr hanagujr halagujr havagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [thaprehalfgujr thanuktaprehalfgujr tharaprehalfgujr tharanuktaprehalfgujr]' uni200D' @gujr_class130';
+} GujrContextualGSUB32;
+
+lookup GujrContextualGSUB31 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 30 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' @gujr_class133';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' @gujr_class134';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' @gujr_class135';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution70 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' [ttagujr ttaragujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' [tthagujr ttharagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' uni200D' @gujr_class133';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' uni200D' @gujr_class134';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' uni200D' @gujr_class135';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution70 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' uni200D' [ttagujr ttaragujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' uni200D' [tthagujr ttharagujr]';
+} GujrContextualGSUB31;
+
+lookup GujrContextualGSUB30 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 29 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [dhaprehalfgujr dhanuktaprehalfgujr dharaprehalfgujr dharanuktaprehalfgujr]' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [dhaprehalfgujr dhanuktaprehalfgujr dharaprehalfgujr dharanuktaprehalfgujr]' @gujr_class140';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [dhaprehalfgujr dhanuktaprehalfgujr dharaprehalfgujr dharanuktaprehalfgujr]' @gujr_class141';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [dhaprehalfgujr dhanuktaprehalfgujr dharaprehalfgujr dharanuktaprehalfgujr]' uni200D' @gujr_class39';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [dhaprehalfgujr dhanuktaprehalfgujr dharaprehalfgujr dharanuktaprehalfgujr]' uni200D' @gujr_class140';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [dhaprehalfgujr dhanuktaprehalfgujr dharaprehalfgujr dharanuktaprehalfgujr]' uni200D' @gujr_class141';
+} GujrContextualGSUB30;
+
+lookup GujrContextualGSUB29 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 28 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 shapreformaltgujr' @gujr_class145';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 shapreformaltgujr' @gujr_class146';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 shapreformaltgujr' @gujr_class147';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 shapreformaltgujr' uni200D' @gujr_class145';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 shapreformaltgujr' uni200D' @gujr_class146';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 shapreformaltgujr' uni200D' @gujr_class147';
+} GujrContextualGSUB29;
+
+lookup GujrContextualGSUB28 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 27 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [yaprehalfgujr yanuktaprehalfgujr yaraprehalfgujr yaranuktaprehalfgujr]' @gujr_class151';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [yaprehalfgujr yanuktaprehalfgujr yaraprehalfgujr yaranuktaprehalfgujr]' [hagujr hanuktagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [yaprehalfgujr yanuktaprehalfgujr yaraprehalfgujr yaranuktaprehalfgujr]' @gujr_class152';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [yaprehalfgujr yanuktaprehalfgujr yaraprehalfgujr yaranuktaprehalfgujr]' uni200D' @gujr_class151';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [yaprehalfgujr yanuktaprehalfgujr yaraprehalfgujr yaranuktaprehalfgujr]' uni200D' [hagujr hanuktagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [yaprehalfgujr yanuktaprehalfgujr yaraprehalfgujr yaranuktaprehalfgujr]' uni200D' @gujr_class152';
+} GujrContextualGSUB28;
+
+lookup GujrContextualGSUB27 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 26 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [vaprehalfgujr vanuktaprehalfgujr varaprehalfgujr varanuktaprehalfgujr]' @gujr_class151';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [vaprehalfgujr vanuktaprehalfgujr varaprehalfgujr varanuktaprehalfgujr]' [vagujr hagujr hanuktagujr varagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [vaprehalfgujr vanuktaprehalfgujr varaprehalfgujr varanuktaprehalfgujr]' @gujr_class156';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [vaprehalfgujr vanuktaprehalfgujr varaprehalfgujr varanuktaprehalfgujr]' uni200D' @gujr_class151';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [vaprehalfgujr vanuktaprehalfgujr varaprehalfgujr varanuktaprehalfgujr]' uni200D' [vagujr hagujr hanuktagujr varagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [vaprehalfgujr vanuktaprehalfgujr varaprehalfgujr varanuktaprehalfgujr]' uni200D' @gujr_class156';
+} GujrContextualGSUB27;
+
+lookup GujrContextualGSUB26 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 25 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [gaprehalfgujr ganuktaprehalfgujr]' @gujr_class159';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [gaprehalfgujr ganuktaprehalfgujr]' @gujr_class160';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [gaprehalfgujr ganuktaprehalfgujr]' [hagujr hanuktagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [gaprehalfgujr ganuktaprehalfgujr]' @gujr_class147';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [gaprehalfgujr ganuktaprehalfgujr]' uni200D' @gujr_class159';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [gaprehalfgujr ganuktaprehalfgujr]' uni200D' @gujr_class160';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [gaprehalfgujr ganuktaprehalfgujr]' uni200D' [hagujr hanuktagujr dabhagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [gaprehalfgujr ganuktaprehalfgujr]' uni200D' @gujr_class147';
+} GujrContextualGSUB26;
+
+lookup GujrContextualGSUB25 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 24 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [maprehalfgujr manuktaprehalfgujr maraprehalfgujr maranuktaprehalfgujr]' [ragujr ranuktagujr raragujr raranuktagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [maprehalfgujr manuktaprehalfgujr maraprehalfgujr maranuktaprehalfgujr]' @gujr_class165';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [maprehalfgujr manuktaprehalfgujr maraprehalfgujr maranuktaprehalfgujr]' @gujr_class166';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [maprehalfgujr manuktaprehalfgujr maraprehalfgujr maranuktaprehalfgujr]' @gujr_class167';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [maprehalfgujr manuktaprehalfgujr maraprehalfgujr maranuktaprehalfgujr]' uni200D' [ragujr ranuktagujr raragujr raranuktagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [maprehalfgujr manuktaprehalfgujr maraprehalfgujr maranuktaprehalfgujr]' uni200D' @gujr_class165';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [maprehalfgujr manuktaprehalfgujr maraprehalfgujr maranuktaprehalfgujr]' uni200D' @gujr_class166';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [maprehalfgujr manuktaprehalfgujr maraprehalfgujr maranuktaprehalfgujr]' uni200D' @gujr_class167';
+} GujrContextualGSUB25;
+
+lookup GujrContextualGSUB24 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 23 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [paprehalfgujr panuktaprehalfgujr paraprehalfgujr paranuktaprehalfgujr]' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [paprehalfgujr panuktaprehalfgujr paraprehalfgujr paranuktaprehalfgujr]' @gujr_class172';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [paprehalfgujr panuktaprehalfgujr paraprehalfgujr paranuktaprehalfgujr]' @gujr_class173';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [paprehalfgujr panuktaprehalfgujr paraprehalfgujr paranuktaprehalfgujr]' @gujr_class174';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [paprehalfgujr panuktaprehalfgujr paraprehalfgujr paranuktaprehalfgujr]' uni200D' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [paprehalfgujr panuktaprehalfgujr paraprehalfgujr paranuktaprehalfgujr]' uni200D' @gujr_class172';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [paprehalfgujr panuktaprehalfgujr paraprehalfgujr paranuktaprehalfgujr]' uni200D' @gujr_class173';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [paprehalfgujr panuktaprehalfgujr paraprehalfgujr paranuktaprehalfgujr]' uni200D' @gujr_class174';
+} GujrContextualGSUB24;
+
+lookup GujrContextualGSUB23 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 22 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [taraprehalfgujr taranuktaprehalfgujr]' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [taraprehalfgujr taranuktaprehalfgujr]' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [taraprehalfgujr taranuktaprehalfgujr]' @gujr_class181';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [taraprehalfgujr taranuktaprehalfgujr]' @gujr_class182';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [taraprehalfgujr taranuktaprehalfgujr]' uni200D' @gujr_class6';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [taraprehalfgujr taranuktaprehalfgujr]' uni200D' @gujr_class12';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [taraprehalfgujr taranuktaprehalfgujr]' uni200D' @gujr_class181';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [taraprehalfgujr taranuktaprehalfgujr]' uni200D' @gujr_class182';
+} GujrContextualGSUB23;
+
+lookup GujrContextualGSUB22 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 21 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [taprehalfgujr tanuktaprehalfgujr]' @gujr_class187';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [taprehalfgujr tanuktaprehalfgujr]' @gujr_class188';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [taprehalfgujr tanuktaprehalfgujr]' @gujr_class189';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [taprehalfgujr tanuktaprehalfgujr]' @gujr_class190';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [taprehalfgujr tanuktaprehalfgujr]' uni200D' @gujr_class187';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [taprehalfgujr tanuktaprehalfgujr]' uni200D' @gujr_class188';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [taprehalfgujr tanuktaprehalfgujr]' uni200D' @gujr_class189';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [taprehalfgujr tanuktaprehalfgujr]' uni200D' @gujr_class190';
+} GujrContextualGSUB22;
+
+lookup GujrContextualGSUB21 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 20 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' @gujr_class195';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' @gujr_class196';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' @gujr_class197';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' @gujr_class198';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution70 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' [ttagujr ttaragujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' uni200D' @gujr_class195';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' uni200D' @gujr_class196';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' uni200D' @gujr_class197';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' uni200D' @gujr_class198';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution70 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' uni200D' [ttagujr ttaragujr]';
+} GujrContextualGSUB21;
+
+
+lookup GujrSingleSubstitution68 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 67 
+    sub ivowelsigngujr by ivowelsign1gujr;
+} GujrSingleSubstitution68;
+
+lookup GujrSingleSubstitution69 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 68 
+    sub ivowelsigngujr by ivowelsign2gujr;
+} GujrSingleSubstitution69;
+
+
+lookup GujrContextualGSUB67 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 66 
+    sub ivowelsigngujr' lookup GujrSingleSubstitution68 @gujr_class203';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution69 @gujr_class204';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution70 @gujr_class205';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution71 @gujr_class206';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution72 @gujr_class207';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [shacagujr shavagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution74 [ttayagujr ttavagujr ddayagujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution73 [papreformaltgujr mapreformaltgujr]' [pagujr paragujr]';
+    sub ivowelsigngujr' lookup GujrSingleSubstitution70 [pagujr paragujr]';
+} GujrContextualGSUB67;
+
+lookup GujrSingleSubstitution79 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 78 
+    sub candrabindugujr by dummymarkgujr;
+    sub anusvaragujr by dummymarkgujr;
+    sub rephgujr by dummymarkgujr;
+    sub rephanusvaragujr by dummymarkgujr;
+} GujrSingleSubstitution79;
+
+lookup GujrSingleSubstitution78 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 77 
+    sub ivowelsigndefaultgujr by ivowelsignrephanusvaragujr;
+    sub ivowelsign1gujr by ivowelsignrephanusvara1gujr;
+    sub ivowelsign2gujr by ivowelsignrephanusvara2gujr;
+    sub ivowelsign3gujr by ivowelsignrephanusvara3gujr;
+    sub ivowelsign4gujr by ivowelsignrephanusvara4gujr;
+    sub ivowelsign5gujr by ivowelsignrephanusvara5gujr;
+    sub ivowelsign6gujr by ivowelsignrephanusvara6gujr;
+} GujrSingleSubstitution78;
+
+lookup GujrSingleSubstitution77 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 76 
+    sub ivowelsigndefaultgujr by ivowelsignrephgujr;
+    sub ivowelsign1gujr by ivowelsignreph1gujr;
+    sub ivowelsign2gujr by ivowelsignreph2gujr;
+    sub ivowelsign3gujr by ivowelsignreph3gujr;
+    sub ivowelsign4gujr by ivowelsignreph4gujr;
+    sub ivowelsign5gujr by ivowelsignreph5gujr;
+    sub ivowelsign6gujr by ivowelsignreph6gujr;
+} GujrSingleSubstitution77;
+
+lookup GujrSingleSubstitution76 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 75 
+    sub ivowelsigndefaultgujr by ivowelsignanusvaragujr;
+    sub ivowelsign1gujr by ivowelsignanusvara1gujr;
+    sub ivowelsign2gujr by ivowelsignanusvara2gujr;
+    sub ivowelsign3gujr by ivowelsignanusvara3gujr;
+    sub ivowelsign4gujr by ivowelsignanusvara4gujr;
+    sub ivowelsign5gujr by ivowelsignanusvara5gujr;
+    sub ivowelsign6gujr by ivowelsignanusvara6gujr;
+} GujrSingleSubstitution76;
+
+lookup GujrMultipleSubstitution88 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 87 
+    sub ngaragujr by ngagujr vattugujr;
+    sub charagujr by chagujr vattugujr;
+    sub jaragujr by jagujr vattugujr;
+    sub ttaragujr by ttagujr vattugujr;
+    sub ttharagujr by tthagujr vattugujr;
+    sub ddaragujr by ddagujr vattugujr;
+    sub ddharagujr by ddhagujr vattugujr;
+    sub raragujr by ragujr vattugujr;
+    sub zharagujr by zhagujr vattugujr;
+    sub ngaranuktagujr by ngagujr nuktagujr vattugujr;
+    sub charanuktagujr by chagujr nuktagujr vattugujr;
+    sub jaranuktagujr by jagujr nuktagujr vattugujr;
+    sub ttaranuktagujr by ttagujr nuktagujr vattugujr;
+    sub ttharanuktagujr by tthagujr nuktagujr vattugujr;
+    sub ddaranuktagujr by ddagujr nuktagujr vattugujr;
+    sub ddharanuktagujr by ddhagujr nuktagujr vattugujr;
+    sub raranuktagujr by ragujr nuktagujr vattugujr;
+    sub ngakagujr by ngaprehalfgujr kagujr;
+    sub ngagagujr by ngaprehalfgujr gagujr;
+    sub ngaghagujr by ngaprehalfgujr ghagujr;
+    sub ngamagujr by ngaprehalfgujr magujr;
+    sub chavagujr by chaprehalfgujr vagujr;
+    sub ttattagujr by ttaprehalfgujr ttagujr;
+    sub ttatthagujr by ttaprehalfgujr tthagujr;
+    sub tthatthagujr by tthaprehalfgujr tthagujr;
+    sub ddaddagujr by ddaprehalfgujr ddagujr;
+    sub ddaddhagujr by ddaprehalfgujr ddhagujr;
+    sub ddhaddhagujr by ddhaprehalfgujr ddhagujr;
+    sub dabagujr by daprehalfgujr bagujr;
+    sub dabhagujr by daprehalfgujr bhagujr;
+    sub davagujr by daprehalfgujr vagujr;
+    sub ssattaragujr by ssaprehalfgujr ttagujr vattugujr;
+    sub ssattharagujr by ssaprehalfgujr tthagujr vattugujr;
+} GujrMultipleSubstitution88;
+
+lookup GujrMultipleSubstitution89 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 88 
+    sub ngaragujr by ngasquishgujr vattugujr;
+    sub charagujr by chasquishgujr vattugujr;
+    sub jaragujr by jasquishgujr vattugujr;
+    sub ttaragujr by ttasquishgujr vattugujr;
+    sub ttharagujr by tthasquishgujr vattugujr;
+    sub ddaragujr by ddasquishgujr vattugujr;
+    sub ddharagujr by ddhasquishgujr vattugujr;
+    sub raragujr by rasquishgujr vattugujr;
+    sub zharagujr by zhasquishgujr vattugujr;
+    sub ngaranuktagujr by nganuktasquishgujr vattugujr;
+    sub charanuktagujr by chanuktasquishgujr vattugujr;
+    sub jaranuktagujr by januktasquishgujr vattugujr;
+    sub ttaranuktagujr by ttanuktasquishgujr vattugujr;
+    sub ttharanuktagujr by tthanuktasquishgujr vattugujr;
+    sub ddaranuktagujr by ddanuktasquishgujr vattugujr;
+    sub ddharanuktagujr by ddhanuktasquishgujr vattugujr;
+    sub raranuktagujr by ranuktasquishgujr vattugujr;
+    sub ssattaragujr by ssaprehalfgujr ttasquishgujr vattugujr;
+    sub ssattharagujr by ssaprehalfgujr tthasquishgujr vattugujr;
+} GujrMultipleSubstitution89;
+
+lookup GujrMultipleSubstitution87 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 86 
+    sub ngaragujr by ngagujr vattugujr;
+    sub charagujr by chagujr vattugujr;
+    sub jaragujr by jagujr vattugujr;
+    sub ttaragujr by ttagujr vattugujr;
+    sub ttharagujr by tthagujr vattugujr;
+    sub ddaragujr by ddagujr vattugujr;
+    sub ddharagujr by ddhagujr vattugujr;
+    sub raragujr by ragujr vattugujr;
+    sub zharagujr by zhagujr vattugujr;
+    sub ngaranuktagujr by ngagujr nuktagujr vattugujr;
+    sub charanuktagujr by chagujr nuktagujr vattugujr;
+    sub jaranuktagujr by jagujr nuktagujr vattugujr;
+    sub ttaranuktagujr by ttagujr nuktagujr vattugujr;
+    sub ttharanuktagujr by tthagujr nuktagujr vattugujr;
+    sub ddaranuktagujr by ddagujr nuktagujr vattugujr;
+    sub ddharanuktagujr by ddhagujr nuktagujr vattugujr;
+    sub raranuktagujr by ragujr nuktagujr vattugujr;
+    sub ngakagujr by ngaprehalfgujr kagujr;
+    sub ngagagujr by ngaprehalfgujr gastemgujr;
+    sub ngaghagujr by ngaprehalfgujr ghastemgujr;
+    sub ngamagujr by ngaprehalfgujr mastemgujr;
+    sub chavagujr by chaprehalfgujr vastemgujr;
+    sub ttattagujr by ttaprehalfgujr ttagujr;
+    sub ttatthagujr by ttaprehalfgujr tthagujr;
+    sub tthatthagujr by tthaprehalfgujr tthagujr;
+    sub ddaddagujr by ddaprehalfgujr ddagujr;
+    sub ddaddhagujr by ddaprehalfgujr ddhagujr;
+    sub ddhaddhagujr by ddhaprehalfgujr ddhagujr;
+    sub dabagujr by daprehalfgujr bastemgujr;
+    sub dabhagujr by daprehalfgujr bhastemgujr;
+    sub davagujr by daprehalfgujr vastemgujr;
+    sub ssattaragujr by ssaprehalfgujr ttagujr vattugujr;
+    sub ssattharagujr by ssaprehalfgujr tthagujr vattugujr;
+} GujrMultipleSubstitution87;
+
+lookup GujrSingleSubstitution86 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 85 
+    sub uvowelsigngujr by uvowelsignlowgujr;
+    sub uuvowelsigngujr by uuvowelsignlowgujr;
+    sub rvocalicvowelsigngujr by rvocalicvowelsignlowgujr;
+    sub viramagujr by viramalowgujr;
+} GujrSingleSubstitution86;
+
+lookup GujrSingleSubstitution84 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 83 
+    sub phagujr by phasquishgujr;
+    sub phanuktagujr by phanuktasquishgujr;
+    sub daragujr by darasquishgujr;
+    sub pharagujr by pharasquishgujr;
+    sub daranuktagujr by daranuktasquishgujr;
+    sub pharanuktagujr by pharanuktasquishgujr;
+    sub dagagujr by dagasquishgujr;
+    sub daghagujr by daghasquishgujr;
+    sub dadagujr by dadasquishgujr;
+    sub dadhagujr by dadhasquishgujr;
+    sub danagujr by danasquishgujr;
+} GujrSingleSubstitution84;
+
+lookup GujrSingleSubstitution85 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 84 
+    sub khagujr by khastemgujr;
+    sub gagujr by gastemgujr;
+    sub ghagujr by ghastemgujr;
+    sub cagujr by castemgujr;
+    sub nyagujr by nyastemgujr;
+    sub nnagujr by nnastemgujr;
+    sub tagujr by tastemgujr;
+    sub thagujr by thastemgujr;
+    sub dhagujr by dhastemgujr;
+    sub nagujr by nastemgujr;
+    sub pagujr by pastemgujr;
+    sub phagujr by phaaltgujr;
+    sub bagujr by bastemgujr;
+    sub bhagujr by bhastemgujr;
+    sub magujr by mastemgujr;
+    sub yagujr by yastemgujr;
+    sub lagujr by lastemgujr;
+    sub llagujr by llastemgujr;
+    sub vagujr by vastemgujr;
+    sub shagujr by shastemgujr;
+    sub ssagujr by ssastemgujr;
+    sub sagujr by sastemgujr;
+    sub khanuktagujr by khanuktastemgujr;
+    sub ganuktagujr by ganuktastemgujr;
+    sub ghanuktagujr by ghanuktastemgujr;
+    sub canuktagujr by canuktastemgujr;
+    sub nyanuktagujr by nyanuktastemgujr;
+    sub nnanuktagujr by nnanuktastemgujr;
+    sub tanuktagujr by tanuktastemgujr;
+    sub thanuktagujr by thanuktastemgujr;
+    sub dhanuktagujr by dhanuktastemgujr;
+    sub nanuktagujr by nanuktastemgujr;
+    sub panuktagujr by panuktastemgujr;
+    sub phanuktagujr by phanuktaaltgujr;
+    sub banuktagujr by banuktastemgujr;
+    sub bhanuktagujr by bhanuktastemgujr;
+    sub manuktagujr by manuktastemgujr;
+    sub yanuktagujr by yanuktastemgujr;
+    sub lanuktagujr by lanuktastemgujr;
+    sub llanuktagujr by llanuktastemgujr;
+    sub vanuktagujr by vanuktastemgujr;
+    sub shanuktagujr by shanuktastemgujr;
+    sub ssanuktagujr by ssanuktastemgujr;
+    sub sanuktagujr by sanuktastemgujr;
+    sub kassagujr by kassastemgujr;
+    sub janyagujr by janyastemgujr;
+    sub kharagujr by kharastemgujr;
+    sub garagujr by garastemgujr;
+    sub gharagujr by gharastemgujr;
+    sub caragujr by carastemgujr;
+    sub nyaragujr by nyarastemgujr;
+    sub nnaragujr by nnarastemgujr;
+    sub taragujr by tarastemgujr;
+    sub tharagujr by tharastemgujr;
+    sub dharagujr by dharastemgujr;
+    sub naragujr by narastemgujr;
+    sub paragujr by parastemgujr;
+    sub pharagujr by pharaaltgujr;
+    sub baragujr by barastemgujr;
+    sub bharagujr by bharastemgujr;
+    sub maragujr by marastemgujr;
+    sub yaragujr by yarastemgujr;
+    sub laragujr by larastemgujr;
+    sub llaragujr by llarastemgujr;
+    sub varagujr by varastemgujr;
+    sub sharagujr by sharastemgujr;
+    sub ssaragujr by ssarastemgujr;
+    sub saragujr by sarastemgujr;
+    sub haragujr by harastemgujr;
+    sub kassaragujr by kassarastemgujr;
+    sub janyaragujr by janyarastemgujr;
+    sub kharanuktagujr by kharanuktastemgujr;
+    sub garanuktagujr by garanuktastemgujr;
+    sub gharanuktagujr by gharanuktastemgujr;
+    sub caranuktagujr by caranuktastemgujr;
+    sub nyaranuktagujr by nyaranuktastemgujr;
+    sub nnaranuktagujr by nnaranuktastemgujr;
+    sub taranuktagujr by taranuktastemgujr;
+    sub tharanuktagujr by tharanuktastemgujr;
+    sub dharanuktagujr by dharanuktastemgujr;
+    sub naranuktagujr by naranuktastemgujr;
+    sub paranuktagujr by paranuktastemgujr;
+    sub pharanuktagujr by pharanuktaaltgujr;
+    sub baranuktagujr by baranuktastemgujr;
+    sub bharanuktagujr by bharanuktastemgujr;
+    sub maranuktagujr by maranuktastemgujr;
+    sub yaranuktagujr by yaranuktastemgujr;
+    sub laranuktagujr by laranuktastemgujr;
+    sub llaranuktagujr by llaranuktastemgujr;
+    sub varanuktagujr by varanuktastemgujr;
+    sub sharanuktagujr by sharanuktastemgujr;
+    sub ssaranuktagujr by ssaranuktastemgujr;
+    sub saranuktagujr by saranuktastemgujr;
+    sub haranuktagujr by haranuktastemgujr;
+    sub kayagujr by kayastemgujr;
+    sub ganagujr by ganastemgujr;
+    sub ngayagujr by ngayastemgujr;
+    sub chayagujr by chayastemgujr;
+    sub jayagujr by jayastemgujr;
+    sub nyacagujr by nyacastemgujr;
+    sub nyajagujr by nyajastemgujr;
+    sub ttayagujr by ttayastemgujr;
+    sub ttavagujr by ttavastemgujr;
+    sub tthayagujr by tthayastemgujr;
+    sub ddayagujr by ddayastemgujr;
+    sub ddhayagujr by ddhayastemgujr;
+    sub tatagujr by tatastemgujr;
+    sub damagujr by damastemgujr;
+    sub dayagujr by dayastemgujr;
+    sub nanagujr by nanastemgujr;
+    sub phayagujr by phayastemgujr;
+    sub llayagujr by llayastemgujr;
+    sub shacagujr by shacastemgujr;
+    sub shanagujr by shanastemgujr;
+    sub shalagujr by shalastemgujr;
+    sub shavagujr by shavastemgujr;
+    sub sataragujr by satarastemgujr;
+    sub hannagujr by hannastemgujr;
+    sub hanagujr by hanastemgujr;
+    sub hamagujr by hamastemgujr;
+    sub hayagujr by hayastemgujr;
+    sub halagujr by halastemgujr;
+    sub havagujr by havastemgujr;
+    sub khayagujr by khayastemgujr;
+    sub vayagujr by vayastemgujr;
+    sub sathagujr by sathastemgujr;
+} GujrSingleSubstitution85;
+
+lookup GujrSingleSubstitution91 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 90 
+    sub uvowelsigngujr by uvowelsignnarrowgujr;
+    sub uvowelsignlowgujr by uvowelsignnarrowlowgujr;
+} GujrSingleSubstitution91;
+
+lookup GujrLigatureSubstitution94 useExtension {
+    lookupflag MarkAttachmentType @gujr_markAttachmentSet1;
+    ;
+    # Original source: 93 
+    sub nuktagujr llvocalicvowelsigngujr by llvocalicvowelsignnuktaleftgujr;
+    sub nuktagujr lvocalicvowelsigngujr by lvocalicvowelsignnuktaleftgujr;
+    sub nuktagujr rrvocalicvowelsigngujr by rrvocalicvowelsignnuktaleftgujr;
+    sub nuktagujr rvocalicvowelsigngujr by rvocalicvowelsignnuktaleftgujr;
+    sub nuktagujr uuvowelsigngujr by uuvowelsignnuktaleftgujr;
+    sub nuktagujr uvowelsigngujr by uvowelsignnuktaleftgujr;
+} GujrLigatureSubstitution94;
+
+lookup GujrMultipleSubstitution93 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 92 
+    sub kanuktagujr by kagujr nuktagujr;
+    sub nganuktagujr by ngagujr nuktagujr;
+    sub chanuktagujr by chagujr nuktagujr;
+    sub januktagujr by jagujr nuktagujr;
+    sub jhanuktagujr by jhagujr nuktagujr;
+    sub ttanuktagujr by ttagujr nuktagujr;
+    sub tthanuktagujr by tthagujr nuktagujr;
+    sub ddanuktagujr by ddagujr nuktagujr;
+    sub ddhanuktagujr by ddhagujr nuktagujr;
+    sub danuktagujr by dagujr nuktagujr;
+    sub ranuktagujr by ragujr nuktagujr;
+    sub hanuktagujr by hagujr nuktagujr;
+    sub karanuktagujr by karagujr nuktagujr;
+    sub jharanuktagujr by jharagujr nuktagujr;
+    sub ghanuktastemgujr by ghastemgujr nuktagujr;
+    sub tanuktastemgujr by tastemgujr nuktagujr;
+    sub kharanuktastemgujr by kharastemgujr nuktagujr;
+    sub garanuktastemgujr by garastemgujr nuktagujr;
+    sub gharanuktastemgujr by gharastemgujr nuktagujr;
+    sub taranuktastemgujr by tarastemgujr nuktagujr;
+    sub yaranuktastemgujr by yarastemgujr nuktagujr;
+    sub phanuktasquishgujr by phasquishgujr nuktagujr;
+    sub pharanuktasquishgujr by pharasquishgujr nuktagujr;
+} GujrMultipleSubstitution93;
+
+lookup GujrSingleSubstitution100 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 99 
+    sub iivowelsigngujr by iivowelsign2gujr;
+    sub iivowelsignanusvaragujr by iivowelsignanusvara2gujr;
+    sub iivowelsignrephgujr by iivowelsignreph2gujr;
+    sub iivowelsignrephanusvaragujr by iivowelsignrephanusvara2gujr;
+} GujrSingleSubstitution100;
+
+lookup GujrSingleSubstitution99 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 98 
+    sub iivowelsigngujr by iivowelsign1gujr;
+    sub iivowelsignanusvaragujr by iivowelsignanusvara1gujr;
+    sub iivowelsignrephgujr by iivowelsignreph1gujr;
+    sub iivowelsignrephanusvaragujr by iivowelsignrephanusvara1gujr;
+} GujrSingleSubstitution99;
+
+lookup GujrSingleSubstitution102 useExtension {
+    lookupflag 0;
+    ;
+    # Original source: 101 
+    sub candrabindugujr by candrabinduleftgujr;
+    sub anusvaragujr by anusvaraleftgujr;
+    sub uni0AFD by uni0AFD.alt;
+    sub rephgujr by rephleftgujr;
+    sub rephanusvaragujr by rephanusvaraleftgujr;
+} GujrSingleSubstitution102;
+
+# --------
+# features
+# --------
+
+feature nukt {
+    script gjr2;
+    lookup GujrNukt1 useExtension { 
+        sub kagujr nuktagujr by kanuktagujr;
+        sub khagujr nuktagujr by khanuktagujr;
+        sub gagujr nuktagujr by ganuktagujr;
+        sub ghagujr nuktagujr by ghanuktagujr;
+        sub ngagujr nuktagujr by nganuktagujr;
+        sub cagujr nuktagujr by canuktagujr;
+        sub chagujr nuktagujr by chanuktagujr;
+        sub jagujr nuktagujr by januktagujr;
+        sub jhagujr nuktagujr by jhanuktagujr;
+        sub nyagujr nuktagujr by nyanuktagujr;
+        sub ttagujr nuktagujr by ttanuktagujr;
+        sub tthagujr nuktagujr by tthanuktagujr;
+        sub ddagujr nuktagujr by ddanuktagujr;
+        sub ddhagujr nuktagujr by ddhanuktagujr;
+        sub nnagujr nuktagujr by nnanuktagujr;
+        sub tagujr nuktagujr by tanuktagujr;
+        sub thagujr nuktagujr by thanuktagujr;
+        sub dagujr nuktagujr by danuktagujr;
+        sub dhagujr nuktagujr by dhanuktagujr;
+        sub nagujr nuktagujr by nanuktagujr;
+        sub pagujr nuktagujr by panuktagujr;
+        sub phagujr nuktagujr by phanuktagujr;
+        sub bagujr nuktagujr by banuktagujr;
+        sub bhagujr nuktagujr by bhanuktagujr;
+        sub magujr nuktagujr by manuktagujr;
+        sub yagujr nuktagujr by yanuktagujr;
+        sub ragujr nuktagujr by ranuktagujr;
+        sub lagujr nuktagujr by lanuktagujr;
+        sub llagujr nuktagujr by llanuktagujr;
+        sub vagujr nuktagujr by vanuktagujr;
+        sub shagujr nuktagujr by shanuktagujr;
+        sub ssagujr nuktagujr by ssanuktagujr;
+        sub sagujr nuktagujr by sanuktagujr;
+        sub hagujr nuktagujr by hanuktagujr;
+    } GujrNukt1;
+} nukt;
+
+feature akhn {
+    script gjr2;
+    lookup GujrAkhn useExtension {
+        sub kagujr viramagujr ssagujr by kassagujr;
+        sub jagujr viramagujr nyagujr by janyagujr;
+    } GujrAkhn;
+} akhn;
+
+feature rphf {
+    script gjr2;
+    lookup GujrRphf useExtension {
+        sub ragujr viramagujr by rephgujr;
+    } GujrRphf;
+} rphf;
+
+feature rkrf {
+    script gjr2;
+        lookup GujrRkrf useExtension {
+        lookupflag MarkAttachmentType @gujr_markAttachmentSet1;
+        ;
+        # Original source: 3 
+        sub kagujr viramagujr ragujr by karagujr;
+        sub khagujr viramagujr ragujr by kharagujr;
+        sub gagujr viramagujr ragujr by garagujr;
+        sub ghagujr viramagujr ragujr by gharagujr;
+        sub ngagujr viramagujr ragujr by ngaragujr;
+        sub cagujr viramagujr ragujr by caragujr;
+        sub chagujr viramagujr ragujr by charagujr;
+        sub jagujr viramagujr ragujr by jaragujr;
+        sub jhagujr viramagujr ragujr by jharagujr;
+        sub nyagujr viramagujr ragujr by nyaragujr;
+        sub ttagujr viramagujr ragujr by ttaragujr;
+        sub tthagujr viramagujr ragujr by ttharagujr;
+        sub ddagujr viramagujr ragujr by ddaragujr;
+        sub ddhagujr viramagujr ragujr by ddharagujr;
+        sub nnagujr viramagujr ragujr by nnaragujr;
+        sub tagujr viramagujr ragujr by taragujr;
+        sub thagujr viramagujr ragujr by tharagujr;
+        sub dagujr viramagujr ragujr by daragujr;
+        sub dhagujr viramagujr ragujr by dharagujr;
+        sub nagujr viramagujr ragujr by naragujr;
+        sub pagujr viramagujr ragujr by paragujr;
+        sub phagujr viramagujr ragujr by pharagujr;
+        sub bagujr viramagujr ragujr by baragujr;
+        sub bhagujr viramagujr ragujr by bharagujr;
+        sub magujr viramagujr ragujr by maragujr;
+        sub yagujr viramagujr ragujr by yaragujr;
+        sub lagujr viramagujr ragujr by laragujr;
+        sub llagujr viramagujr ragujr by llaragujr;
+        sub vagujr viramagujr ragujr by varagujr;
+        sub shagujr viramagujr ragujr by sharagujr;
+        sub ssagujr viramagujr ragujr by ssaragujr;
+        sub sagujr viramagujr ragujr by saragujr;
+        sub hagujr viramagujr ragujr by haragujr;
+        sub zhagujr viramagujr ragujr by zharagujr;
+        sub kanuktagujr viramagujr ragujr by karanuktagujr;
+        sub khanuktagujr viramagujr ragujr by kharanuktagujr;
+        sub ganuktagujr viramagujr ragujr by garanuktagujr;
+        sub ghanuktagujr viramagujr ragujr by gharanuktagujr;
+        sub nganuktagujr viramagujr ragujr by ngaranuktagujr;
+        sub canuktagujr viramagujr ragujr by caranuktagujr;
+        sub chanuktagujr viramagujr ragujr by charanuktagujr;
+        sub januktagujr viramagujr ragujr by jaranuktagujr;
+        sub jhanuktagujr viramagujr ragujr by jharanuktagujr;
+        sub nyanuktagujr viramagujr ragujr by nyaranuktagujr;
+        sub ttanuktagujr viramagujr ragujr by ttaranuktagujr;
+        sub tthanuktagujr viramagujr ragujr by ttharanuktagujr;
+        sub ddanuktagujr viramagujr ragujr by ddaranuktagujr;
+        sub ddhanuktagujr viramagujr ragujr by ddharanuktagujr;
+        sub nnanuktagujr viramagujr ragujr by nnaranuktagujr;
+        sub tanuktagujr viramagujr ragujr by taranuktagujr;
+        sub thanuktagujr viramagujr ragujr by tharanuktagujr;
+        sub danuktagujr viramagujr ragujr by daranuktagujr;
+        sub dhanuktagujr viramagujr ragujr by dharanuktagujr;
+        sub nanuktagujr viramagujr ragujr by naranuktagujr;
+        sub panuktagujr viramagujr ragujr by paranuktagujr;
+        sub phanuktagujr viramagujr ragujr by pharanuktagujr;
+        sub banuktagujr viramagujr ragujr by baranuktagujr;
+        sub bhanuktagujr viramagujr ragujr by bharanuktagujr;
+        sub manuktagujr viramagujr ragujr by maranuktagujr;
+        sub yanuktagujr viramagujr ragujr by yaranuktagujr;
+        sub ranuktagujr viramagujr ragujr by raranuktagujr;
+        sub lanuktagujr viramagujr ragujr by laranuktagujr;
+        sub llanuktagujr viramagujr ragujr by llaranuktagujr;
+        sub vanuktagujr viramagujr ragujr by varanuktagujr;
+        sub shanuktagujr viramagujr ragujr by sharanuktagujr;
+        sub ssanuktagujr viramagujr ragujr by ssaranuktagujr;
+        sub sanuktagujr viramagujr ragujr by saranuktagujr;
+        sub hanuktagujr viramagujr ragujr by haranuktagujr;
+        sub kassagujr viramagujr ragujr by kassaragujr;
+        sub janyagujr viramagujr ragujr by janyaragujr;
+    } GujrRkrf;
+} rkrf;
+
+feature blwf {
+    script gjr2;
+    lookup GujrBlwf useExtension {
+        sub viramagujr ragujr by vattugujr;
+    } GujrBlwf;
+} blwf;
+
+feature half {
+    script gjr2;
+    lookup GujrLigatureSubstitution8 useExtension {
+        lookupflag MarkAttachmentType @gujr_markAttachmentSet1;
+        ;
+        # Original source: 7 
+        sub kagujr viramagujr by kaprehalfgujr;
+        sub khagujr viramagujr by khaprehalfgujr;
+        sub gagujr viramagujr by gaprehalfgujr;
+        sub ghagujr viramagujr by ghaprehalfgujr;
+        sub cagujr viramagujr by caprehalfgujr;
+        sub jagujr viramagujr by japrehalfgujr;
+        sub jhagujr viramagujr by jhaprehalfgujr;
+        sub nyagujr viramagujr by nyaprehalfgujr;
+        sub nnagujr viramagujr by nnaprehalfgujr;
+        sub tagujr viramagujr by taprehalfgujr;
+        sub thagujr viramagujr by thaprehalfgujr;
+        sub dhagujr viramagujr by dhaprehalfgujr;
+        sub nagujr viramagujr by naprehalfgujr;
+        sub pagujr viramagujr by paprehalfgujr;
+        sub phagujr viramagujr by phaprehalfgujr;
+        sub bagujr viramagujr by baprehalfgujr;
+        sub bhagujr viramagujr by bhaprehalfgujr;
+        sub magujr viramagujr by maprehalfgujr;
+        sub yagujr viramagujr by yaprehalfgujr;
+        sub lagujr viramagujr by laprehalfgujr;
+        sub llagujr viramagujr by llaprehalfgujr;
+        sub vagujr viramagujr by vaprehalfgujr;
+        sub shagujr viramagujr by shaprehalfgujr;
+        sub ssagujr viramagujr by ssaprehalfgujr;
+        sub sagujr viramagujr by saprehalfgujr;
+        sub hagujr viramagujr by haprehalfgujr;
+        sub zhagujr viramagujr by zhaprehalfgujr;
+        sub kanuktagujr viramagujr by kanuktaprehalfgujr;
+        sub khanuktagujr viramagujr by khanuktaprehalfgujr;
+        sub ganuktagujr viramagujr by ganuktaprehalfgujr;
+        sub ghanuktagujr viramagujr by ghanuktaprehalfgujr;
+        sub canuktagujr viramagujr by canuktaprehalfgujr;
+        sub januktagujr viramagujr by januktaprehalfgujr;
+        sub jhanuktagujr viramagujr by jhanuktaprehalfgujr;
+        sub nyanuktagujr viramagujr by nyanuktaprehalfgujr;
+        sub nnanuktagujr viramagujr by nnanuktaprehalfgujr;
+        sub tanuktagujr viramagujr by tanuktaprehalfgujr;
+        sub thanuktagujr viramagujr by thanuktaprehalfgujr;
+        sub dhanuktagujr viramagujr by dhanuktaprehalfgujr;
+        sub nanuktagujr viramagujr by nanuktaprehalfgujr;
+        sub panuktagujr viramagujr by panuktaprehalfgujr;
+        sub phanuktagujr viramagujr by phanuktaprehalfgujr;
+        sub banuktagujr viramagujr by banuktaprehalfgujr;
+        sub bhanuktagujr viramagujr by bhanuktaprehalfgujr;
+        sub manuktagujr viramagujr by manuktaprehalfgujr;
+        sub yanuktagujr viramagujr by yanuktaprehalfgujr;
+        sub lanuktagujr viramagujr by lanuktaprehalfgujr;
+        sub llanuktagujr viramagujr by llanuktaprehalfgujr;
+        sub vanuktagujr viramagujr by vanuktaprehalfgujr;
+        sub shanuktagujr viramagujr by shanuktaprehalfgujr;
+        sub ssanuktagujr viramagujr by ssanuktaprehalfgujr;
+        sub sanuktagujr viramagujr by sanuktaprehalfgujr;
+        sub hanuktagujr viramagujr by hanuktaprehalfgujr;
+        sub kassagujr viramagujr by kassaprehalfgujr;
+        sub janyagujr viramagujr by janyaprehalfgujr;
+        sub karagujr viramagujr by karaprehalfgujr;
+        sub kharagujr viramagujr by kharaprehalfgujr;
+        sub garagujr viramagujr by garaprehalfgujr;
+        sub gharagujr viramagujr by gharaprehalfgujr;
+        sub caragujr viramagujr by caraprehalfgujr;
+        sub jaragujr viramagujr by jaraprehalfgujr;
+        sub jharagujr viramagujr by jharaprehalfgujr;
+        sub nyaragujr viramagujr by nyaraprehalfgujr;
+        sub nnaragujr viramagujr by nnaraprehalfgujr;
+        sub taragujr viramagujr by taraprehalfgujr;
+        sub tharagujr viramagujr by tharaprehalfgujr;
+        sub dharagujr viramagujr by dharaprehalfgujr;
+        sub naragujr viramagujr by naraprehalfgujr;
+        sub paragujr viramagujr by paraprehalfgujr;
+        sub pharagujr viramagujr by pharaprehalfgujr;
+        sub baragujr viramagujr by baraprehalfgujr;
+        sub bharagujr viramagujr by bharaprehalfgujr;
+        sub maragujr viramagujr by maraprehalfgujr;
+        sub yaragujr viramagujr by yaraprehalfgujr;
+        sub laragujr viramagujr by laraprehalfgujr;
+        sub llaragujr viramagujr by llaraprehalfgujr;
+        sub varagujr viramagujr by varaprehalfgujr;
+        sub sharagujr viramagujr by sharaprehalfgujr;
+        sub ssaragujr viramagujr by ssaraprehalfgujr;
+        sub saragujr viramagujr by saraprehalfgujr;
+        sub haragujr viramagujr by haraprehalfgujr;
+        sub zharagujr viramagujr by zharaprehalfgujr;
+        sub kassaragujr viramagujr by kassaraprehalfgujr;
+        sub janyaragujr viramagujr by janyaraprehalfgujr;
+        sub karanuktagujr viramagujr by karanuktaprehalfgujr;
+        sub kharanuktagujr viramagujr by kharanuktaprehalfgujr;
+        sub garanuktagujr viramagujr by garanuktaprehalfgujr;
+        sub gharanuktagujr viramagujr by gharanuktaprehalfgujr;
+        sub caranuktagujr viramagujr by caranuktaprehalfgujr;
+        sub jaranuktagujr viramagujr by jaranuktaprehalfgujr;
+        sub jharanuktagujr viramagujr by jharanuktaprehalfgujr;
+        sub nyaranuktagujr viramagujr by nyaranuktaprehalfgujr;
+        sub nnaranuktagujr viramagujr by nnaranuktaprehalfgujr;
+        sub taranuktagujr viramagujr by taranuktaprehalfgujr;
+        sub tharanuktagujr viramagujr by tharanuktaprehalfgujr;
+        sub dharanuktagujr viramagujr by dharanuktaprehalfgujr;
+        sub naranuktagujr viramagujr by naranuktaprehalfgujr;
+        sub paranuktagujr viramagujr by paranuktaprehalfgujr;
+        sub pharanuktagujr viramagujr by pharanuktaprehalfgujr;
+        sub baranuktagujr viramagujr by baranuktaprehalfgujr;
+        sub bharanuktagujr viramagujr by bharanuktaprehalfgujr;
+        sub maranuktagujr viramagujr by maranuktaprehalfgujr;
+        sub yaranuktagujr viramagujr by yaranuktaprehalfgujr;
+        sub laranuktagujr viramagujr by laranuktaprehalfgujr;
+        sub llaranuktagujr viramagujr by llaranuktaprehalfgujr;
+        sub varanuktagujr viramagujr by varanuktaprehalfgujr;
+        sub sharanuktagujr viramagujr by sharanuktaprehalfgujr;
+        sub ssaranuktagujr viramagujr by ssaranuktaprehalfgujr;
+        sub saranuktagujr viramagujr by saranuktaprehalfgujr;
+        sub haranuktagujr viramagujr by haranuktaprehalfgujr;
+    } GujrLigatureSubstitution8;
+} half;
+
+feature cjct {
+    script gjr2;
+    lookup GujrCjct useExtension {
+        sub ngagujr viramagujr gagujr by ngagagujr;
+        sub ngagujr viramagujr ghagujr by ngaghagujr;
+        sub ngagujr viramagujr kagujr by ngakagujr;
+        sub ngagujr viramagujr magujr by ngamagujr;
+        sub ngagujr viramagujr yagujr by ngayagujr;
+        sub chagujr viramagujr vagujr by chavagujr;
+        sub chagujr viramagujr yagujr by chayagujr;
+        sub ttagujr viramagujr ttagujr by ttattagujr;
+        sub ttagujr viramagujr tthagujr by ttatthagujr;
+        sub ttagujr viramagujr vagujr by ttavagujr;
+        sub ttagujr viramagujr yagujr by ttayagujr;
+        sub tthagujr viramagujr tthagujr by tthatthagujr;
+        sub tthagujr viramagujr yagujr by tthayagujr;
+        sub ddagujr viramagujr ddagujr by ddaddagujr;
+        sub ddagujr viramagujr ddhagujr by ddaddhagujr;
+        sub ddagujr viramagujr yagujr by ddayagujr;
+        sub ddhagujr viramagujr ddhagujr by ddhaddhagujr;
+        sub ddhagujr viramagujr yagujr by ddhayagujr;
+        sub dagujr viramagujr bagujr by dabagujr;
+        sub dagujr viramagujr bhagujr by dabhagujr;
+        sub dagujr viramagujr dagujr by dadagujr;
+        sub dagujr viramagujr dhagujr by dadhagujr;
+        sub dagujr viramagujr gagujr by dagagujr;
+        sub dagujr viramagujr ghagujr by daghagujr;
+        sub dagujr viramagujr magujr by damagujr;
+        sub dagujr viramagujr nagujr by danagujr;
+        sub dagujr viramagujr vagujr by davagujr;
+        sub dagujr viramagujr yagujr by dayagujr;
+    } GujrCjct;
+} cjct;
+
+feature pres {
+    script gjr2;
+
+    lookup GujrLigatureSubstitution12 useExtension {
+        lookupflag 0;
+        ;
+        # Original source: 11 
+        sub kaprehalfgujr kagujr by kakagujr;
+        sub kaprehalfgujr yagujr by kayagujr;
+        sub khaprehalfgujr yagujr by khayagujr;
+        sub gaprehalfgujr nagujr by ganagujr;
+        sub ngaprehalfgujr gagujr by ngagagujr;
+        sub ngaprehalfgujr ghagujr by ngaghagujr;
+        sub ngaprehalfgujr kagujr by ngakagujr;
+        sub ngaprehalfgujr magujr by ngamagujr;
+        sub ngaprehalfgujr yagujr by ngayagujr;
+        sub chaprehalfgujr vagujr by chavagujr;
+        sub chaprehalfgujr yagujr by chayagujr;
+        sub japrehalfgujr yagujr by jayagujr;
+        sub nyaprehalfgujr cagujr by nyacagujr;
+        sub nyaprehalfgujr jagujr by nyajagujr;
+        sub ttaprehalfgujr ttagujr by ttattagujr;
+        sub ttaprehalfgujr tthagujr by ttatthagujr;
+        sub ttaprehalfgujr vagujr by ttavagujr;
+        sub ttaprehalfgujr yagujr by ttayagujr;
+        sub tthaprehalfgujr tthagujr by tthatthagujr;
+        sub tthaprehalfgujr yagujr by tthayagujr;
+        sub ddaprehalfgujr ddagujr by ddaddagujr;
+        sub ddaprehalfgujr ddhagujr by ddaddhagujr;
+        sub ddaprehalfgujr yagujr by ddayagujr;
+        sub ddhaprehalfgujr ddhagujr by ddhaddhagujr;
+        sub ddhaprehalfgujr yagujr by ddhayagujr;
+        sub taprehalfgujr tagujr by tatagujr;
+        sub daprehalfgujr bagujr by dabagujr;
+        sub daprehalfgujr bhagujr by dabhagujr;
+        sub daprehalfgujr dagujr by dadagujr;
+        sub daprehalfgujr dhagujr by dadhagujr;
+        sub daprehalfgujr gagujr by dagagujr;
+        sub daprehalfgujr ghagujr by daghagujr;
+        sub daprehalfgujr magujr by damagujr;
+        sub daprehalfgujr nagujr by danagujr;
+        sub daprehalfgujr vagujr by davagujr;
+        sub daprehalfgujr yagujr by dayagujr;
+        sub naprehalfgujr nagujr by nanagujr;
+        sub phaprehalfgujr yagujr by phayagujr;
+        sub baprehalfgujr dagujr by badagujr;
+        sub llaprehalfgujr yagujr by llayagujr;
+        sub vaprehalfgujr yagujr by vayagujr;
+        sub shaprehalfgujr cagujr by shacagujr;
+        sub shaprehalfgujr lagujr by shalagujr;
+        sub shaprehalfgujr nagujr by shanagujr;
+        sub shaprehalfgujr vagujr by shavagujr;
+        sub ssaprehalfgujr ttagujr by ssattagujr;
+        sub ssaprehalfgujr ttaragujr by ssattaragujr;
+        sub ssaprehalfgujr tthagujr by ssatthagujr;
+        sub ssaprehalfgujr ttharagujr by ssattharagujr;
+        sub saprehalfgujr taragujr by sataragujr;
+        sub saprehalfgujr thagujr by sathagujr;
+        sub haprehalfgujr lagujr by halagujr;
+        sub haprehalfgujr magujr by hamagujr;
+        sub haprehalfgujr nagujr by hanagujr;
+        sub haprehalfgujr nnagujr by hannagujr;
+        sub haprehalfgujr vagujr by havagujr;
+        sub haprehalfgujr yagujr by hayagujr;
+    } GujrLigatureSubstitution12;
+
+
+    lookup GujrLigatureSubstitution13 useExtension {
+        sub taprehalfgujr taprehalfgujr by tatapreformgujr;
+        sub saprehalfgujr thaprehalfgujr by sathapreformgujr;
+    } GujrLigatureSubstitution13;
+
+
+    lookup GujrChainedContextualGSUB14 useExtension {
+        sub shaprehalfgujr' @gujr_class1 by shapreformaltgujr;
+        sub [paprehalfgujr maprehalfgujr]' [pagujr paprehalfgujr paragujr] by [papreformaltgujr mapreformaltgujr];
+        sub [naprehalfgujr saprehalfgujr]' [ttagujr ttaprehalfgujr ttaragujr ttayagujr ttavagujr] by [napreformaltgujr sapreformaltgujr];
+    } GujrChainedContextualGSUB14;
+
+} pres;
+
+feature abvs {
+    script gjr2;
+     
+    lookup GujrContextualGSUB16 useExtension {
+        lookupflag MarkAttachmentType @gujr_markAttachmentSet3;
+        ;
+        # Original source: 15 
+        sub @gujr_class2' lookup GujrMultipleSubstitution17 [uni0AFD rephgujr]';
+    } GujrContextualGSUB16;
+
+    lookup GujrLigatureSubstitution18 useExtension {
+        lookupflag MarkAttachmentType @gujr_markAttachmentSet3;
+        ;
+        # Original source: 17 
+        sub rephgujr anusvaragujr by rephanusvaragujr;
+        sub rephgujr candrabindugujr by rephanusvaragujr;
+    } GujrLigatureSubstitution18;
+
+    lookup GujrLigatureSubstitution19 useExtension {
+        lookupflag MarkAttachmentType @gujr_markAttachmentSet3;
+        ;
+        # Original source: 18 
+        sub igujr anusvaragujr by ianusvaragujr;
+        sub iigujr anusvaragujr by iianusvaragujr;
+        sub ugujr anusvaragujr by uanusvaragujr;
+        sub uugujr anusvaragujr by uuanusvaragujr;
+        sub ecandragujr anusvaragujr by ecandraanusvaragujr;
+        sub egujr anusvaragujr by eanusvaragujr;
+        sub aigujr anusvaragujr by aianusvaragujr;
+        sub ocandragujr anusvaragujr by ocandraanusvaragujr;
+        sub ogujr anusvaragujr by oanusvaragujr;
+        sub augujr anusvaragujr by auanusvaragujr;
+        sub ecandravowelsigngujr anusvaragujr by ecandravowelsignanusvaragujr;
+        sub ecandravowelsigngujr rephanusvaragujr by ecandravowelrephanusvaragujr;
+        sub ecandravowelsigngujr rephgujr by ecandravowelsignrephgujr;
+        sub evowelsigngujr anusvaragujr by evowelsignanusvaragujr;
+        sub evowelsigngujr rephanusvaragujr by evowelsignrephanusvaragujr;
+        sub evowelsigngujr rephgujr by evowelsignrephgujr;
+        sub evowelsigngujr uni0AFD by uni0AFD_evowelgujr;
+        sub aivowelsigngujr anusvaragujr by aivowelsignanusvaragujr;
+        sub aivowelsigngujr rephanusvaragujr by aivowelsignrephanusvaragujr;
+        sub aivowelsigngujr rephgujr by aivowelsignrephgujr;
+        sub aivowelsigngujr uni0AFD by uni0AFD_aivowelgujr;
+        sub ocandravowelsigngujr anusvaragujr by ocandravowelsignanusvaragujr;
+        sub ocandravowelsigngujr rephanusvaragujr by ocandravowelrephanusvaragujr;
+        sub ocandravowelsigngujr rephgujr by ocandravowelsignrephgujr;
+        sub ovowelsigngujr anusvaragujr by ovowelsignanusvaragujr;
+        sub ovowelsigngujr rephanusvaragujr by ovowelsignrephanusvaragujr;
+        sub ovowelsigngujr rephgujr by ovowelsignrephgujr;
+        sub ovowelsigngujr uni0AFD by uni0AFD_ovowelgujr;
+        sub auvowelsigngujr anusvaragujr by auvowelsignanusvaragujr;
+        sub auvowelsigngujr rephanusvaragujr by auvowelsignrephanusvaragujr;
+        sub auvowelsigngujr rephgujr by auvowelsignrephgujr;
+        sub auvowelsigngujr uni0AFD by uni0AFD_auvowelgujr;
+        sub uni0AFB uni0AFA by uni0AFB_uni0AFA;
+        sub uni0AFD aivowelsigngujr rephgujr by uni0AFD_aivowelgujr_rephgujr;
+        sub uni0AFD auvowelsigngujr rephgujr by uni0AFD_auvowelgujr_rephgujr;
+        sub uni0AFD evowelsigngujr rephgujr by uni0AFD_evowelgujr_rephgujr;
+        sub uni0AFD ovowelsigngujr rephgujr by uni0AFD_ovowelgujr_rephgujr;
+        sub uni0AFD aivowelsigngujr by uni0AFD_aivowelgujr;
+        sub uni0AFD auvowelsigngujr by uni0AFD_auvowelgujr;
+        sub uni0AFD evowelsigngujr by uni0AFD_evowelgujr;
+        sub uni0AFD ovowelsigngujr by uni0AFD_ovowelgujr;
+        sub uni0AFD rephgujr by uni0AFD_rephgujr;
+        sub uni0AFD uni0AFA by uni0AFD_uni0AFA;
+        sub uni0AFD uni0AFB by uni0AFD_uni0AFB;
+        sub uni0AFD uni0AFC by uni0AFD_uni0AFC;
+        sub uni0AFE aivowelsigngujr rephgujr by uni0AFE_aivowelgujr_rephgujr;
+        sub uni0AFE evowelsigngujr rephgujr by uni0AFE_evowelgujr_rephgujr;
+        sub uni0AFE aivowelsigngujr by uni0AFE_aivowelgujr;
+        sub uni0AFE evowelsigngujr by uni0AFE_evowelgujr;
+        sub uni0AFE rephgujr by uni0AFE_rephgujr;
+        sub uni0AFE uni0AFA by uni0AFE_uni0AFA;
+        sub uni0AFE uni0AFB by uni0AFE_uni0AFB;
+        sub uni0AFF aivowelsigngujr rephgujr by uni0AFF_aivowelgujr_rephgujr;
+        sub uni0AFF evowelsigngujr rephgujr by uni0AFF_evowelgujr_rephgujr;
+        sub uni0AFF aivowelsigngujr by uni0AFF_aivowelgujr;
+        sub uni0AFF evowelsigngujr by uni0AFF_evowelgujr;
+        sub uni0AFF rephgujr by uni0AFF_rephgujr;
+        sub uni0AFF uni0AFA by uni0AFF_uni0AFA;
+        sub uni0AFF uni0AFB by uni0AFF_uni0AFB;
+        sub rephgujr auvowelsigngujr anusvaragujr by auvowelsignrephanusvaragujr;
+        sub rephgujr ocandravowelsigngujr anusvaragujr by ocandravowelrephanusvaragujr;
+        sub rephgujr ovowelsigngujr anusvaragujr by ovowelsignrephanusvaragujr;
+        sub rephgujr auvowelsigngujr by auvowelsignrephgujr;
+        sub rephgujr ocandravowelsigngujr by ocandravowelsignrephgujr;
+        sub rephgujr ovowelsigngujr by ovowelsignrephgujr;
+        sub rephgujr uni0AFA by uni0AFA_rephgujr;
+    } GujrLigatureSubstitution19;
+
+
+
+    # iMatra widths, I'm guessing
+    lookup GujrContextualGSUB20 useExtension {
+        lookupflag 0;
+        ;
+        # Original source: 19 
+        sub ivowelsigngujr' lookup GujrSingleSubstitution68 @gujr_class208' @gujr_class209';
+        sub ivowelsigngujr' lookup GujrContextualGSUB67 @gujr_class208';
+        sub ivowelsigngujr' lookup GujrSingleSubstitution68 @gujr_class211' @gujr_class209';
+        sub ivowelsigngujr' lookup GujrContextualGSUB67 @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB21 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB21 [naprehalfgujr nanuktaprehalfgujr naraprehalfgujr naranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB22 [taprehalfgujr tanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB22 [taprehalfgujr tanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB23 [taraprehalfgujr taranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB23 [taraprehalfgujr taranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB24 [paprehalfgujr panuktaprehalfgujr paraprehalfgujr paranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB24 [paprehalfgujr panuktaprehalfgujr paraprehalfgujr paranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB25 [maprehalfgujr manuktaprehalfgujr maraprehalfgujr maranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB25 [maprehalfgujr manuktaprehalfgujr maraprehalfgujr maranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB26 [gaprehalfgujr ganuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB26 [gaprehalfgujr ganuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB27 [vaprehalfgujr vanuktaprehalfgujr varaprehalfgujr varanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB27 [vaprehalfgujr vanuktaprehalfgujr varaprehalfgujr varanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB28 [yaprehalfgujr yanuktaprehalfgujr yaraprehalfgujr yaranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB28 [yaprehalfgujr yanuktaprehalfgujr yaraprehalfgujr yaranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB29 shapreformaltgujr' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB29 shapreformaltgujr' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB30 [dhaprehalfgujr dhanuktaprehalfgujr dharaprehalfgujr dharanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB30 [dhaprehalfgujr dhanuktaprehalfgujr dharaprehalfgujr dharanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB31 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB31 [ssaprehalfgujr ssanuktaprehalfgujr ssaraprehalfgujr ssaranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB32 [thaprehalfgujr thanuktaprehalfgujr tharaprehalfgujr tharanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB32 [thaprehalfgujr thanuktaprehalfgujr tharaprehalfgujr tharanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB33 [shaprehalfgujr shanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB33 [shaprehalfgujr shanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB34 [ghaprehalfgujr ghanuktaprehalfgujr gharaprehalfgujr gharanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB34 [ghaprehalfgujr ghanuktaprehalfgujr gharaprehalfgujr gharanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB35 [raprehalfgujr ranuktaprehalfgujr raraprehalfgujr raranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB35 [raprehalfgujr ranuktaprehalfgujr raraprehalfgujr raranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB36 [ttaprehalfgujr ttanuktaprehalfgujr ttaraprehalfgujr ttaranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB36 [ttaprehalfgujr ttanuktaprehalfgujr ttaraprehalfgujr ttaranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB37 [garaprehalfgujr garanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB37 [garaprehalfgujr garanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB38 [laprehalfgujr lanuktaprehalfgujr laraprehalfgujr laranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB38 [laprehalfgujr lanuktaprehalfgujr laraprehalfgujr laranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB39 tatapreformgujr' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB39 tatapreformgujr' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB40 [daprehalfgujr danuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB40 [daprehalfgujr danuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB41 [caprehalfgujr canuktaprehalfgujr caraprehalfgujr caranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB41 [caprehalfgujr canuktaprehalfgujr caraprehalfgujr caranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB42 [haprehalfgujr hanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB42 [haprehalfgujr hanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB43 [ddaprehalfgujr ddanuktaprehalfgujr ddaraprehalfgujr ddaranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB43 [ddaprehalfgujr ddanuktaprehalfgujr ddaraprehalfgujr ddaranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB44 janyaprehalfgujr' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB44 janyaprehalfgujr' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB45 kassaprehalfgujr' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB45 kassaprehalfgujr' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB46 [daraprehalfgujr daranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB46 [daraprehalfgujr daranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB47 [ngaprehalfgujr nganuktaprehalfgujr ngaraprehalfgujr ngaranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB47 [ngaprehalfgujr nganuktaprehalfgujr ngaraprehalfgujr ngaranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB48 [nyaprehalfgujr nyanuktaprehalfgujr nyaraprehalfgujr nyaranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB48 [nyaprehalfgujr nyanuktaprehalfgujr nyaraprehalfgujr nyaranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB49 [kaprehalfgujr kanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB49 [kaprehalfgujr kanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB50 [phaprehalfgujr phanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB50 [phaprehalfgujr phanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB51 [ddhaprehalfgujr ddhanuktaprehalfgujr ddharaprehalfgujr ddharanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB51 [ddhaprehalfgujr ddhanuktaprehalfgujr ddharaprehalfgujr ddharanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB52 [tthaprehalfgujr tthanuktaprehalfgujr ttharaprehalfgujr ttharanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB52 [tthaprehalfgujr tthanuktaprehalfgujr ttharaprehalfgujr ttharanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB53 [sharaprehalfgujr sharanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB53 [sharaprehalfgujr sharanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB54 janyaraprehalfgujr' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB54 janyaraprehalfgujr' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB55 [karaprehalfgujr karanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB55 [karaprehalfgujr karanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB56 [pharaprehalfgujr pharanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB56 [pharaprehalfgujr pharanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB57 [saprehalfgujr sanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB57 [saprehalfgujr sanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB58 [saraprehalfgujr saranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB58 [saraprehalfgujr saranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB59 [llaprehalfgujr llanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB59 [llaprehalfgujr llanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB60 [baprehalfgujr banuktaprehalfgujr baraprehalfgujr baranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB60 [baprehalfgujr banuktaprehalfgujr baraprehalfgujr baranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB61 [llaraprehalfgujr llaranuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB61 [llaraprehalfgujr llaranuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB62 kassaraprehalfgujr' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB62 kassaraprehalfgujr' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB63 [khaprehalfgujr khanuktaprehalfgujr kharaprehalfgujr kharanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB63 [khaprehalfgujr khanuktaprehalfgujr kharaprehalfgujr kharanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB64 [nnaprehalfgujr nnanuktaprehalfgujr]' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB64 [nnaprehalfgujr nnanuktaprehalfgujr]' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB65 @gujr_class5' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB65 @gujr_class5' uni200D' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB66 @gujr_class209' @gujr_class211';
+        sub ivowelsigngujr' lookup GujrContextualGSUB66 @gujr_class209' uni200D' @gujr_class211';
+    } GujrContextualGSUB20;
+
+
+    lookup GujrContextualGSUB75 useExtension {
+        lookupflag 0;
+        ;
+        # Original source: 74 
+        sub @gujr_class310' lookup GujrSingleSubstitution76 @gujr_All' anusvaragujr' lookup GujrSingleSubstitution79;
+        sub @gujr_class310' lookup GujrSingleSubstitution77 @gujr_All' rephgujr' lookup GujrSingleSubstitution79;
+        sub @gujr_class310' lookup GujrSingleSubstitution78 @gujr_All' rephanusvaragujr' lookup GujrSingleSubstitution79;
+        sub @gujr_class310' lookup GujrSingleSubstitution76 @gujr_PreHalfForms' @gujr_All' anusvaragujr' lookup GujrSingleSubstitution79;
+        sub @gujr_class310' lookup GujrSingleSubstitution77 @gujr_PreHalfForms' @gujr_All' rephgujr' lookup GujrSingleSubstitution79;
+        sub @gujr_class310' lookup GujrSingleSubstitution78 @gujr_PreHalfForms' @gujr_All' rephanusvaragujr' lookup GujrSingleSubstitution79;
+        sub @gujr_class310' lookup GujrSingleSubstitution76 @gujr_PreHalfForms' uni200D' @gujr_All' anusvaragujr' lookup GujrSingleSubstitution79;
+        sub @gujr_class310' lookup GujrSingleSubstitution77 @gujr_PreHalfForms' uni200D' @gujr_All' rephgujr' lookup GujrSingleSubstitution79;
+        sub @gujr_class310' lookup GujrSingleSubstitution78 @gujr_PreHalfForms' uni200D' @gujr_All' rephanusvaragujr' lookup GujrSingleSubstitution79;
+    } GujrContextualGSUB75;
+
+    lookup GujrIVowelSignSingleLine useExtension {
+        sub ivowelsigngujr' @gujr_All by ivowelsigndefaultgujr;    
+    } GujrIVowelSignSingleLine;
+} abvs;
+
+feature blws {    
+    script gjr2;
+    lookup GujrLigatureSubstitution82 useExtension {
+        lookupflag MarkAttachmentType @gujr_markAttachmentSet1;
+        ;
+        # Original source: 81 
+        sub nnagujr uvowelsigngujr by nnauvowelgujr;
+        sub dagujr rvocalicvowelsigngujr by darvocalicvowelgujr;
+        sub ragujr uuvowelsigngujr by rauuvowelgujr;
+        sub ragujr uvowelsigngujr by rauvowelgujr;
+        sub hagujr rvocalicvowelsigngujr by harvocalicvowelgujr;
+        sub kanuktagujr uuvowelsigngujr by kanuktauuvowelgujr;
+        sub kanuktagujr uvowelsigngujr by kanuktauvowelgujr;
+        sub ddanuktagujr uuvowelsigngujr by ddanuktauuvowelgujr;
+        sub ddanuktagujr uvowelsigngujr by ddanuktauvowelgujr;
+        sub ddhanuktagujr uuvowelsigngujr by ddhanuktauuvowelgujr;
+        sub ddhanuktagujr uvowelsigngujr by ddhanuktauvowelgujr;
+        sub nnanuktagujr uvowelsigngujr by nnauvowelnuktagujr;
+        sub danuktagujr rvocalicvowelsigngujr by darvocalicvowelnuktagujr;
+        sub ranuktagujr uuvowelsigngujr by rauuvowelnuktagujr;
+        sub ranuktagujr uvowelsigngujr by rauvowelnuktagujr;
+        sub hanuktagujr rvocalicvowelsigngujr by harvocalicvowelnuktagujr;
+        sub nnaragujr uvowelsigngujr by nnarauvowelgujr;
+        sub karanuktagujr uuvowelsigngujr by karanuktauuvowelgujr;
+        sub karanuktagujr uvowelsigngujr by karanuktauvowelgujr;
+        sub nnaranuktagujr uvowelsigngujr by nnarauvowelnuktagujr;
+        sub ttattagujr uuvowelsigngujr by ttattauugujr;
+        sub ttattagujr uvowelsigngujr by ttattaugujr;
+        sub ttatthagujr uuvowelsigngujr by ttatthauugujr;
+        sub tthatthagujr uvowelsigngujr by tthatthaugujr;
+        sub ddaddagujr uvowelsigngujr by ddaddaugujr;
+    } GujrLigatureSubstitution82;
+
+
+    lookup GujrContextualGSUB83 useExtension {
+        lookupflag 0;
+        ;
+        # Original source: 82 
+        sub [phagujr phanuktagujr pharagujr pharanuktagujr]' lookup GujrSingleSubstitution85 [uvowelsigngujr uuvowelsigngujr rvocalicvowelsigngujr]' lookup GujrSingleSubstitution86;
+        sub [phagujr phanuktagujr pharagujr pharanuktagujr]' lookup GujrSingleSubstitution84 [rrvocalicvowelsigngujr lvocalicvowelsigngujr llvocalicvowelsigngujr]';
+        sub [phagujr phanuktagujr pharagujr pharanuktagujr]' lookup GujrSingleSubstitution85 viramagujr' lookup GujrSingleSubstitution86;
+        sub @gujr_class335' lookup GujrSingleSubstitution85 [uvowelsigngujr uuvowelsigngujr rvocalicvowelsigngujr]';
+        sub @gujr_class335' lookup GujrSingleSubstitution85 [rrvocalicvowelsigngujr lvocalicvowelsigngujr llvocalicvowelsigngujr]';
+        sub @gujr_class337' lookup GujrMultipleSubstitution87 [uvowelsigngujr uuvowelsigngujr rvocalicvowelsigngujr]';
+        sub @gujr_class337' lookup GujrMultipleSubstitution87 [rrvocalicvowelsigngujr lvocalicvowelsigngujr llvocalicvowelsigngujr]';
+        sub @gujr_class337' lookup GujrMultipleSubstitution88 viramagujr';
+        sub @gujr_class340' [uvowelsigngujr uuvowelsigngujr rvocalicvowelsigngujr]' lookup GujrSingleSubstitution86;
+        sub @gujr_class340' lookup GujrSingleSubstitution84 [rrvocalicvowelsigngujr lvocalicvowelsigngujr llvocalicvowelsigngujr]';
+        sub @gujr_class340' viramagujr' lookup GujrSingleSubstitution86;
+        sub [dabagujr dabhagujr davagujr]' [uvowelsigngujr uuvowelsigngujr rvocalicvowelsigngujr]' lookup GujrSingleSubstitution86;
+        sub [dabagujr dabhagujr davagujr]' lookup GujrMultipleSubstitution87 [rrvocalicvowelsigngujr lvocalicvowelsigngujr llvocalicvowelsigngujr]';
+        sub [dabagujr dabhagujr davagujr]' viramagujr' lookup GujrSingleSubstitution86;
+        sub @gujr_class343' lookup GujrMultipleSubstitution87 [uvowelsigngujr uuvowelsigngujr rvocalicvowelsigngujr]';
+        sub @gujr_class343' lookup GujrMultipleSubstitution89 [rrvocalicvowelsigngujr lvocalicvowelsigngujr llvocalicvowelsigngujr]';
+        sub @gujr_class343' lookup GujrMultipleSubstitution88 viramagujr';
+    } GujrContextualGSUB83;
+
+    lookup GujrContextualGSUB90 useExtension {
+    lookupflag MarkAttachmentType @gujr_markAttachmentSet1;
+    sub @gujr_class346' [uvowelsigngujr uvowelsignlowgujr]' lookup GujrSingleSubstitution91;
+    } GujrContextualGSUB90;
+
+
+    lookup GujrContextualGSUB92 useExtension {
+        lookupflag 0;
+        ;
+        # Original source: 91 
+        sub @gujr_class347' lookup GujrMultipleSubstitution93 uvowelsigngujr';
+        sub @gujr_class347' lookup GujrMultipleSubstitution93 uuvowelsigngujr';
+        sub @gujr_class347' lookup GujrMultipleSubstitution93 [rvocalicvowelsigngujr rrvocalicvowelsigngujr]';
+        sub @gujr_class347' lookup GujrMultipleSubstitution93 [lvocalicvowelsigngujr llvocalicvowelsigngujr]' lookup GujrLigatureSubstitution94;
+        sub @gujr_class347' lookup GujrMultipleSubstitution93 viramagujr';
+        sub [kanuktagujr karanuktagujr]' lookup GujrMultipleSubstitution93 [rvocalicvowelsigngujr rrvocalicvowelsigngujr]' lookup GujrLigatureSubstitution94;
+        sub [kanuktagujr karanuktagujr]' lookup GujrMultipleSubstitution93 [lvocalicvowelsigngujr llvocalicvowelsigngujr]' lookup GujrLigatureSubstitution94;
+        sub [kanuktagujr karanuktagujr]' lookup GujrMultipleSubstitution93 viramagujr';
+        sub @gujr_class352' lookup GujrMultipleSubstitution93 uvowelsigngujr';
+        sub @gujr_class352' lookup GujrMultipleSubstitution93 uuvowelsigngujr';
+        sub @gujr_class352' lookup GujrMultipleSubstitution93 [lvocalicvowelsigngujr llvocalicvowelsigngujr]';
+        sub [ddanuktagujr ddhanuktagujr ranuktagujr]' lookup GujrMultipleSubstitution93 [rvocalicvowelsigngujr rrvocalicvowelsigngujr]' lookup GujrLigatureSubstitution94;
+        sub [ddanuktagujr ddhanuktagujr ranuktagujr]' lookup GujrMultipleSubstitution93 [lvocalicvowelsigngujr llvocalicvowelsigngujr]' lookup GujrLigatureSubstitution94;
+        sub [phanuktasquishgujr pharanuktasquishgujr]' lookup GujrMultipleSubstitution93 [lvocalicvowelsigngujr llvocalicvowelsigngujr]' lookup GujrLigatureSubstitution94;
+    } GujrContextualGSUB92;
+
+
+    lookup GujrLigatureSubstitution95 useExtension {
+        lookupflag MarkAttachmentType @gujr_markAttachmentSet1;
+        ;
+        # Original source: 94 
+        sub nuktagujr vattugujr rvocalicvowelsigngujr by rvocalicvattunuktalowgujr;
+        sub nuktagujr vattugujr uuvowelsigngujr by uuvattunuktalowgujr;
+        sub nuktagujr vattugujr uvowelsigngujr by uvattunuktalowgujr;
+        sub nuktagujr vattugujr viramagujr by viramavattunuktalowgujr;
+        sub nuktagujr llvocalicvowelsigngujr by llvocalicvowelsignnuktagujr;
+        sub nuktagujr lvocalicvowelsigngujr by lvocalicvowelsignnuktagujr;
+        sub nuktagujr rrvocalicvowelsigngujr by rrvocalicvowelsignnuktagujr;
+        sub nuktagujr rvocalicvowelsigngujr by rvocalicvowelsignnuktagujr;
+        sub nuktagujr uuvowelsigngujr by uuvowelsignnuktagujr;
+        sub nuktagujr uvowelsigngujr by uvowelsignnuktagujr;
+        sub nuktagujr viramagujr by viramanuktagujr;
+        sub vattugujr llvocalicvowelsigngujr by vocalicvattugujr;
+        sub vattugujr lvocalicvowelsigngujr by lvocalicvattugujr;
+        sub vattugujr rrvocalicvowelsigngujr by rrvocalicvattugujr;
+        sub vattugujr rvocalicvowelsigngujr by rvocalicvattulowgujr;
+        sub vattugujr uuvowelsigngujr by uuvattulowgujr;
+        sub vattugujr uvowelsigngujr by uvattulowgujr;
+        sub vattugujr viramagujr by viramavattulowgujr;
+    } GujrLigatureSubstitution95;
+
+} blws;
+
+feature psts {
+    script gjr2;
+    lookup GujrDecomposeVerticalMatras useExtension {
+    sub [jagujr zhagujr januktagujr] auvowelsigngujr' by aavowelsigngujr aivowelsigngujr;
+    sub [jagujr zhagujr januktagujr] ovowelsigngujr' by aavowelsigngujr evowelsigngujr;
+    sub [jagujr zhagujr januktagujr] ocandravowelsigngujr' by aavowelsigngujr ecandravowelsigngujr;
+    sub [jagujr zhagujr januktagujr] ocandravowelsignanusvaragujr' by aavowelsigngujr ecandravowelsignanusvaragujr;
+    sub [jagujr zhagujr januktagujr] ocandravowelsignrephgujr' by aavowelsigngujr ecandravowelsignrephgujr;
+    sub [jagujr zhagujr januktagujr] ovowelsignanusvaragujr' by aavowelsigngujr evowelsignanusvaragujr;
+    sub [jagujr zhagujr januktagujr] ovowelsignrephgujr' by aavowelsigngujr evowelsignrephgujr;
+    sub [jagujr zhagujr januktagujr] ovowelsignrephanusvaragujr' by aavowelsigngujr evowelsignrephanusvaragujr;
+    sub [jagujr zhagujr januktagujr] auvowelsignanusvaragujr' by aavowelsigngujr aivowelsignanusvaragujr;
+    sub [jagujr zhagujr januktagujr] auvowelsignrephgujr' by aavowelsigngujr aivowelsignrephgujr;
+    sub [jagujr zhagujr januktagujr] auvowelsignrephanusvaragujr' by aavowelsigngujr aivowelsignrephanusvaragujr;
+    } GujrDecomposeVerticalMatras;
+
+    lookup GujrLigatureSubstitution96 useExtension {
+        lookupflag IgnoreMarks;
+        ;
+        # Original source: 95 
+        sub jagujr aavowelsigngujr by jaaavowelgujr;
+        sub jagujr iivowelsigngujr by jaiivowelgujr;
+        sub zhagujr aavowelsigngujr by zhaaavowelgujr;
+        sub zhagujr iivowelsigngujr by zhaiivowelgujr;
+        sub januktagujr aavowelsigngujr by jaaavowelnuktagujr;
+        sub januktagujr iivowelsigngujr by jaiivowelnuktagujr;
+    } GujrLigatureSubstitution96;
+
+
+    lookup GujrLigatureSubstitution97 useExtension {
+        lookupflag 0;
+        ;
+        # Original source: 96 
+        sub iivowelsigngujr anusvaragujr by iivowelsignanusvaragujr;
+        sub iivowelsigngujr candrabindugujr by iivowelsignanusvaragujr;
+        sub iivowelsigngujr rephanusvaragujr by iivowelsignrephanusvaragujr;
+        sub iivowelsigngujr rephgujr by iivowelsignrephgujr;
+        sub rephgujr iivowelsigngujr anusvaragujr by iivowelsignrephanusvaragujr;
+        sub rephgujr anusvaragujr by rephanusvaragujr;
+        sub rephgujr iivowelsigngujr by iivowelsignrephgujr;
+    } GujrLigatureSubstitution97;
+
+
+
+    lookup GujrChainedContextualGSUB98 useExtension {
+        lookupflag 0;
+        ;
+        # Original source: 97 
+        sub @gujr_class355 [iivowelsigngujr iivowelsignanusvaragujr iivowelsignrephgujr iivowelsignrephanusvaragujr]' lookup GujrSingleSubstitution99;
+        sub @gujr_class356 [iivowelsigngujr iivowelsignanusvaragujr iivowelsignrephgujr iivowelsignrephanusvaragujr]' lookup GujrSingleSubstitution100;
+    } GujrChainedContextualGSUB98;
+
+
+    lookup GujrChainedContextualGSUB101 useExtension {
+        lookupflag MarkAttachmentType @gujr_markAttachmentSet3;
+        ;
+        # Original source: 100 
+        sub @gujr_class357 [candrabindugujr anusvaragujr rephgujr rephanusvaragujr]' lookup GujrSingleSubstitution102;
+        sub [igujr iigujr ugujr uugujr] uni0AFD' lookup GujrSingleSubstitution102;
+    } GujrChainedContextualGSUB101;
+
+} psts;
+
+feature haln {
+    script gjr2;
+
+    lookup GujrLigatureSubstitution103 useExtension {
+        lookupflag 0;
+        ;
+        # Original source: 102 
+        sub ngagujr viramagujr by ngaprehalfgujr;
+        sub ngagujr viramanuktagujr by nganuktaprehalfgujr;
+        sub ngagujr viramavattulowgujr by ngaraprehalfgujr;
+        sub ngagujr viramavattunuktalowgujr by ngaranuktaprehalfgujr;
+        sub chagujr viramagujr by chaprehalfgujr;
+        sub chagujr viramanuktagujr by chanuktaprehalfgujr;
+        sub chagujr viramavattulowgujr by charaprehalfgujr;
+        sub chagujr viramavattunuktalowgujr by charanuktaprehalfgujr;
+        sub ttagujr viramagujr by ttaprehalfgujr;
+        sub ttagujr viramanuktagujr by ttanuktaprehalfgujr;
+        sub ttagujr viramavattulowgujr by ttaraprehalfgujr;
+        sub ttagujr viramavattunuktalowgujr by ttaranuktaprehalfgujr;
+        sub tthagujr viramagujr by tthaprehalfgujr;
+        sub tthagujr viramanuktagujr by tthanuktaprehalfgujr;
+        sub tthagujr viramavattulowgujr by ttharaprehalfgujr;
+        sub tthagujr viramavattunuktalowgujr by ttharanuktaprehalfgujr;
+        sub ddagujr viramagujr by ddaprehalfgujr;
+        sub ddagujr viramavattulowgujr by ddaraprehalfgujr;
+        sub ddagujr viramavattunuktalowgujr by ddaranuktaprehalfgujr;
+        sub ddhagujr viramagujr by ddhaprehalfgujr;
+        sub ddhagujr viramavattulowgujr by ddharaprehalfgujr;
+        sub ddhagujr viramavattunuktalowgujr by ddharanuktaprehalfgujr;
+        sub dagujr viramagujr by daprehalfgujr;
+        sub dagujr viramanuktagujr by danuktaprehalfgujr;
+        sub ragujr viramagujr by raprehalfgujr;
+        sub ragujr viramavattunuktalowgujr by raranuktaprehalfgujr;
+        sub ddanuktagujr viramagujr by ddanuktaprehalfgujr;
+        sub ddhanuktagujr viramagujr by ddhanuktaprehalfgujr;
+        sub ranuktagujr viramagujr by ranuktaprehalfgujr;
+        sub daragujr viramagujr by daraprehalfgujr;
+        sub daranuktagujr viramalowgujr by daranuktaprehalfgujr;
+} GujrLigatureSubstitution103;
+
+} haln;
