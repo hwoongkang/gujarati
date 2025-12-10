@@ -1,0 +1,92 @@
+{
+category = Mark;
+glyphname = uni0AFD_aivowelgujr_rephgujr;
+layers = (
+{
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+pos = (-225,0);
+ref = uni0AFD_aivowelgujr;
+},
+{
+pos = (51,0);
+ref = rephgujr;
+}
+);
+width = 0;
+},
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (-202,0);
+ref = uni0AFD_aivowelgujr;
+},
+{
+pos = (96,0);
+ref = rephgujr;
+}
+);
+width = 0;
+},
+{
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+pos = (-231,0);
+ref = uni0AFD_aivowelgujr;
+},
+{
+pos = (166,0);
+ref = rephgujr;
+}
+);
+width = 0;
+},
+{
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+pos = (-237,0);
+ref = uni0AFD_aivowelgujr;
+},
+{
+pos = (-2,0);
+ref = rephgujr;
+}
+);
+width = 0;
+},
+{
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+pos = (-232,0);
+ref = uni0AFD_aivowelgujr;
+},
+{
+pos = (43,0);
+ref = rephgujr;
+}
+);
+width = 0;
+},
+{
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+pos = (-257,0);
+ref = uni0AFD_aivowelgujr;
+},
+{
+pos = (100,0);
+ref = rephgujr;
+}
+);
+width = 0;
+}
+);
+script = gujarati;
+subCategory = Nonspacing;
+}

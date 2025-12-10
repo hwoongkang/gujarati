@@ -1,0 +1,85 @@
+{
+glyphname = khanuktastemgujr;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = khastemgujr;
+},
+{
+pos = (554,168);
+ref = nuktagujr;
+}
+);
+width = 746;
+},
+{
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = khastemgujr;
+},
+{
+pos = (554,168);
+ref = nuktagujr;
+}
+);
+width = 705;
+},
+{
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = khastemgujr;
+},
+{
+pos = (594,162);
+ref = nuktagujr;
+}
+);
+width = 850;
+},
+{
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = khastemgujr;
+},
+{
+pos = (413,168);
+ref = nuktagujr;
+}
+);
+width = 523;
+},
+{
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = khastemgujr;
+},
+{
+pos = (471,172);
+ref = nuktagujr;
+}
+);
+width = 669;
+},
+{
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = khastemgujr;
+},
+{
+pos = (436,168);
+ref = nuktagujr;
+}
+);
+width = 585;
+}
+);
+metricWidth = khagujr;
+script = gujarati;
+}

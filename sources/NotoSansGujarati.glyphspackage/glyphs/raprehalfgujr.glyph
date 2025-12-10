@@ -1,0 +1,123 @@
+{
+category = Letter;
+glyphname = raprehalfgujr;
+layers = (
+{
+anchors = (
+{
+name = t.candrabinduleftgujr;
+pos = (169,603);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = ragujr;
+},
+{
+pos = (362,0);
+ref = viramagujr;
+}
+);
+width = 445;
+},
+{
+anchors = (
+{
+name = t.candrabinduleftgujr;
+pos = (182,603);
+}
+);
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = ragujr;
+},
+{
+pos = (306,0);
+ref = viramagujr;
+}
+);
+width = 421;
+},
+{
+anchors = (
+{
+name = t.candrabinduleftgujr;
+pos = (158,603);
+}
+);
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = ragujr;
+},
+{
+pos = (435,0);
+ref = viramagujr;
+}
+);
+width = 503;
+},
+{
+anchors = (
+{
+name = t.candrabinduleftgujr;
+pos = (124,603);
+}
+);
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = ragujr;
+},
+{
+pos = (278,0);
+ref = viramagujr;
+}
+);
+width = 307;
+},
+{
+anchors = (
+{
+name = t.candrabinduleftgujr;
+pos = (106,603);
+}
+);
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = ragujr;
+},
+{
+pos = (326,0);
+ref = viramagujr;
+}
+);
+width = 393;
+},
+{
+anchors = (
+{
+name = t.candrabinduleftgujr;
+pos = (124,603);
+}
+);
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = ragujr;
+},
+{
+pos = (295,0);
+ref = viramagujr;
+}
+);
+width = 343;
+}
+);
+metricWidth = ragujr;
+script = gujarati;
+subCategory = Halfform;
+}

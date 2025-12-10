@@ -1,0 +1,169 @@
+{
+glyphname = ranuktasquishgujr;
+layers = (
+{
+anchors = (
+{
+name = b.uvattulowgujr;
+pos = (222,0);
+},
+{
+name = t.candrabindugujr;
+pos = (234,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (168,603);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = rasquishgujr;
+},
+{
+pos = (347,287);
+ref = nuktasmallgujr;
+}
+);
+width = 443;
+},
+{
+anchors = (
+{
+name = b.uvattulowgujr;
+pos = (288,0);
+},
+{
+name = t.candrabindugujr;
+pos = (253,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (179,603);
+}
+);
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = rasquishgujr;
+},
+{
+pos = (334,289);
+ref = nuktasmallgujr;
+}
+);
+width = 418;
+},
+{
+anchors = (
+{
+name = b.uvattulowgujr;
+pos = (256,0);
+},
+{
+name = t.candrabindugujr;
+pos = (215,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (156,603);
+}
+);
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = rasquishgujr;
+},
+{
+pos = (330,271);
+ref = nuktasmallgujr;
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = b.uvattulowgujr;
+pos = (167,0);
+},
+{
+name = t.candrabindugujr;
+pos = (181,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (124,603);
+}
+);
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = rasquishgujr;
+},
+{
+pos = (325,281);
+ref = nuktasmallgujr;
+}
+);
+width = 307;
+},
+{
+anchors = (
+{
+name = b.uvattulowgujr;
+pos = (127,0);
+},
+{
+name = t.candrabindugujr;
+pos = (160,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (106,603);
+}
+);
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = rasquishgujr;
+},
+{
+pos = (303,285);
+ref = nuktasmallgujr;
+}
+);
+width = 393;
+},
+{
+anchors = (
+{
+name = b.uvattulowgujr;
+pos = (153,0);
+},
+{
+name = t.candrabindugujr;
+pos = (169,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (124,603);
+}
+);
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = rasquishgujr;
+},
+{
+pos = (317,281);
+ref = nuktasmallgujr;
+}
+);
+width = 343;
+}
+);
+metricWidth = rasquishgujr;
+script = gujarati;
+}

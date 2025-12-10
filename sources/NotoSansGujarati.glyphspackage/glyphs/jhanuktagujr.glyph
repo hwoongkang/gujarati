@@ -1,0 +1,169 @@
+{
+glyphname = jhanuktagujr;
+layers = (
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (494,0);
+},
+{
+name = bottom;
+pos = (348,-192);
+},
+{
+name = t.candrabindugujr;
+pos = (456,603);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = jhagujr;
+},
+{
+pos = (606,0);
+ref = nuktagujr;
+}
+);
+width = 698;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (470,0);
+},
+{
+name = bottom;
+pos = (336,-172);
+},
+{
+name = t.candrabindugujr;
+pos = (470,603);
+}
+);
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = jhagujr;
+},
+{
+pos = (603,0);
+ref = nuktagujr;
+}
+);
+width = 671;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (515,0);
+},
+{
+name = bottom;
+pos = (388,-222);
+},
+{
+name = t.candrabindugujr;
+pos = (473,603);
+}
+);
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = jhagujr;
+},
+{
+pos = (675,1);
+ref = nuktagujr;
+}
+);
+width = 778;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (353,0);
+},
+{
+name = bottom;
+pos = (253,-171);
+},
+{
+name = t.candrabindugujr;
+pos = (353,603);
+}
+);
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = jhagujr;
+},
+{
+pos = (454,0);
+ref = nuktagujr;
+}
+);
+width = 506;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (420,0);
+},
+{
+name = bottom;
+pos = (321,-215);
+},
+{
+name = t.candrabindugujr;
+pos = (382,603);
+}
+);
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = jhagujr;
+},
+{
+pos = (541,0);
+ref = nuktagujr;
+}
+);
+width = 644;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (386,0);
+},
+{
+name = bottom;
+pos = (279,-192);
+},
+{
+name = t.candrabindugujr;
+pos = (363,603);
+}
+);
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = jhagujr;
+},
+{
+pos = (480,0);
+ref = nuktagujr;
+}
+);
+width = 559;
+}
+);
+metricWidth = jhagujr;
+script = gujarati;
+}

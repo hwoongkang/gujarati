@@ -1,0 +1,86 @@
+{
+glyphname = uni0AF1;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = rauuvowelgujr;
+},
+{
+pos = (436,-209);
+ref = uni0AF0;
+}
+);
+width = 819;
+},
+{
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = rauuvowelgujr;
+},
+{
+pos = (416,-220);
+ref = uni0AF0;
+}
+);
+width = 782;
+},
+{
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = rauuvowelgujr;
+},
+{
+pos = (477,-178);
+ref = uni0AF0;
+}
+);
+width = 903;
+},
+{
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = rauuvowelgujr;
+},
+{
+pos = (315,-227);
+ref = uni0AF0;
+}
+);
+width = 599;
+},
+{
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = rauuvowelgujr;
+},
+{
+pos = (387,-178);
+ref = uni0AF0;
+}
+);
+width = 759;
+},
+{
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = rauuvowelgujr;
+},
+{
+pos = (341,-209);
+ref = uni0AF0;
+}
+);
+width = 657;
+}
+);
+metricRight = uni0AF0;
+script = gujarati;
+unicode = 2801;
+}

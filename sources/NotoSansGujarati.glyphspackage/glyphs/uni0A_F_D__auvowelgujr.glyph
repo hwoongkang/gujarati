@@ -1,0 +1,87 @@
+{
+category = Other;
+glyphname = uni0AFD_auvowelgujr;
+layers = (
+{
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = aavowelsigngujr;
+},
+{
+pos = (237,0);
+ref = uni0AFD_aivowelgujr;
+}
+);
+width = 237;
+},
+{
+layerId = UUID0;
+shapes = (
+{
+ref = aavowelsigngujr;
+},
+{
+pos = (265,0);
+ref = uni0AFD_aivowelgujr;
+}
+);
+width = 265;
+},
+{
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = aavowelsigngujr;
+},
+{
+pos = (316,0);
+ref = uni0AFD_aivowelgujr;
+}
+);
+width = 316;
+},
+{
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = aavowelsigngujr;
+},
+{
+pos = (177,0);
+ref = uni0AFD_aivowelgujr;
+}
+);
+width = 177;
+},
+{
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = aavowelsigngujr;
+},
+{
+pos = (212,0);
+ref = uni0AFD_aivowelgujr;
+}
+);
+width = 212;
+},
+{
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = aavowelsigngujr;
+},
+{
+pos = (263,0);
+ref = uni0AFD_aivowelgujr;
+}
+);
+width = 263;
+}
+);
+metricWidth = aavowelsigngujr;
+script = gujarati;
+subCategory = Ligature;
+}

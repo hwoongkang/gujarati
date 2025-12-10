@@ -1,0 +1,87 @@
+{
+category = Letter;
+glyphname = yaranuktaprehalfgujr;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = yaraprehalfgujr;
+},
+{
+pos = (499,0);
+ref = nuktagujr;
+}
+);
+width = 414;
+},
+{
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = yaraprehalfgujr;
+},
+{
+pos = (491,0);
+ref = nuktagujr;
+}
+);
+width = 393;
+},
+{
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = yaraprehalfgujr;
+},
+{
+pos = (529,0);
+ref = nuktagujr;
+}
+);
+width = 451;
+},
+{
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = yaraprehalfgujr;
+},
+{
+pos = (383,0);
+ref = nuktagujr;
+}
+);
+width = 295;
+},
+{
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = yaraprehalfgujr;
+},
+{
+pos = (422,6);
+ref = nuktagujr;
+}
+);
+width = 367;
+},
+{
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = yaraprehalfgujr;
+},
+{
+pos = (408,0);
+ref = nuktagujr;
+}
+);
+width = 315;
+}
+);
+metricWidth = yaraprehalfgujr;
+script = gujarati;
+subCategory = Halfform;
+}

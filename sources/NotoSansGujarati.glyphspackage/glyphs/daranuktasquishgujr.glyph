@@ -1,0 +1,169 @@
+{
+glyphname = daranuktasquishgujr;
+layers = (
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (436,0);
+},
+{
+name = t.candrabindugujr;
+pos = (322,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (222,603);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = darasquishgujr;
+},
+{
+pos = (349,8);
+ref = nuktasmallgujr;
+}
+);
+width = 490;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (448,0);
+},
+{
+name = t.candrabindugujr;
+pos = (325,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (224,603);
+}
+);
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = darasquishgujr;
+},
+{
+pos = (335,9);
+ref = nuktasmallgujr;
+}
+);
+width = 462;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (462,0);
+},
+{
+name = t.candrabindugujr;
+pos = (301,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (204,603);
+}
+);
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = darasquishgujr;
+},
+{
+pos = (348,-51);
+ref = nuktasmallgujr;
+}
+);
+width = 551;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (348,0);
+},
+{
+name = t.candrabindugujr;
+pos = (249,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (179,603);
+}
+);
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = darasquishgujr;
+},
+{
+pos = (340,2);
+ref = nuktasmallgujr;
+}
+);
+width = 363;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (384,0);
+},
+{
+name = t.candrabindugujr;
+pos = (229,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (152,603);
+}
+);
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = darasquishgujr;
+},
+{
+pos = (305,-21);
+ref = nuktasmallgujr;
+}
+);
+width = 456;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (358,0);
+},
+{
+name = t.candrabindugujr;
+pos = (249,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (171,603);
+}
+);
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = darasquishgujr;
+},
+{
+pos = (281,2);
+ref = nuktasmallgujr;
+}
+);
+width = 399;
+}
+);
+metricWidth = darasquishgujr;
+script = gujarati;
+}

@@ -1,0 +1,121 @@
+{
+glyphname = bhanuktagujr;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (443,-38);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = bhagujr;
+},
+{
+pos = (701,154);
+ref = nuktagujr;
+}
+);
+width = 809;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (423,-18);
+}
+);
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = bhagujr;
+},
+{
+pos = (690,154);
+ref = nuktagujr;
+}
+);
+width = 764;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (461,-80);
+}
+);
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = bhagujr;
+},
+{
+pos = (748,143);
+ref = nuktagujr;
+}
+);
+width = 891;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (326,-17);
+}
+);
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = bhagujr;
+},
+{
+pos = (527,154);
+ref = nuktagujr;
+}
+);
+width = 572;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (394,-57);
+}
+);
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = bhagujr;
+},
+{
+pos = (614,158);
+ref = nuktagujr;
+}
+);
+width = 728;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (347,-38);
+}
+);
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = bhagujr;
+},
+{
+pos = (548,154);
+ref = nuktagujr;
+}
+);
+width = 620;
+}
+);
+metricWidth = bhagujr;
+script = gujarati;
+}

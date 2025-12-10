@@ -1,0 +1,169 @@
+{
+glyphname = ddhanuktauuvowelgujr;
+layers = (
+{
+anchors = (
+{
+name = t.candrabindugujr;
+pos = (294,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (213,603);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = ddhagujr;
+},
+{
+pos = (320,93);
+ref = nuktasmallgujr;
+},
+{
+pos = (473,0);
+ref = uuvowelsigngujr;
+}
+);
+width = 516;
+},
+{
+anchors = (
+{
+name = t.candrabindugujr;
+pos = (300,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (227,603);
+}
+);
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = ddhagujr;
+},
+{
+pos = (328,83);
+ref = nuktasmallgujr;
+},
+{
+pos = (449,0);
+ref = uuvowelsigngujr;
+}
+);
+width = 480;
+},
+{
+anchors = (
+{
+name = t.candrabindugujr;
+pos = (257,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (191,603);
+}
+);
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = ddhagujr;
+},
+{
+pos = (310,96);
+ref = nuktasmallgujr;
+},
+{
+pos = (540,0);
+ref = uuvowelsigngujr;
+}
+);
+width = 551;
+},
+{
+anchors = (
+{
+name = t.candrabindugujr;
+pos = (230,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (175,603);
+}
+);
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = ddhagujr;
+},
+{
+pos = (316,82);
+ref = nuktasmallgujr;
+},
+{
+pos = (349,0);
+ref = uuvowelsigngujr;
+}
+);
+width = 380;
+},
+{
+anchors = (
+{
+name = t.candrabindugujr;
+pos = (206,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (160,603);
+}
+);
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = ddhagujr;
+},
+{
+pos = (317,78);
+ref = nuktasmallgujr;
+},
+{
+pos = (459,0);
+ref = uuvowelsigngujr;
+}
+);
+width = 471;
+},
+{
+anchors = (
+{
+name = t.candrabindugujr;
+pos = (225,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (167,603);
+}
+);
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = ddhagujr;
+},
+{
+pos = (306,93);
+ref = nuktasmallgujr;
+},
+{
+pos = (372,0);
+ref = uuvowelsigngujr;
+}
+);
+width = 412;
+}
+);
+metricWidth = ddhagujr;
+script = gujarati;
+}

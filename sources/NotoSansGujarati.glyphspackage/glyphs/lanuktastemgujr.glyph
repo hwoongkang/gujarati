@@ -1,0 +1,85 @@
+{
+glyphname = lanuktastemgujr;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = lastemgujr;
+},
+{
+pos = (542,143);
+ref = nuktagujr;
+}
+);
+width = 651;
+},
+{
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = lastemgujr;
+},
+{
+pos = (540,133);
+ref = nuktagujr;
+}
+);
+width = 605;
+},
+{
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = lastemgujr;
+},
+{
+pos = (578,99);
+ref = nuktagujr;
+}
+);
+width = 728;
+},
+{
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = lastemgujr;
+},
+{
+pos = (408,153);
+ref = nuktagujr;
+}
+);
+width = 456;
+},
+{
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = lastemgujr;
+},
+{
+pos = (435,110);
+ref = nuktagujr;
+}
+);
+width = 584;
+},
+{
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = lastemgujr;
+},
+{
+pos = (415,151);
+ref = nuktagujr;
+}
+);
+width = 505;
+}
+);
+metricWidth = lastemgujr;
+script = gujarati;
+}

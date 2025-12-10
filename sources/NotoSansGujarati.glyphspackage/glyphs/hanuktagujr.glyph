@@ -1,0 +1,193 @@
+{
+glyphname = hanuktagujr;
+layers = (
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (362,0);
+},
+{
+name = bottom;
+pos = (316,-192);
+},
+{
+name = t.candrabindugujr;
+pos = (432,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (347,603);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = hagujr;
+},
+{
+pos = (574,0);
+ref = nuktagujr;
+}
+);
+width = 633;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (365,0);
+},
+{
+name = bottom;
+pos = (302,-172);
+},
+{
+name = t.candrabindugujr;
+pos = (439,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (337,603);
+}
+);
+layerId = "E837EE1F-8268-496F-836F-3DC25D441D7C";
+shapes = (
+{
+ref = hagujr;
+},
+{
+pos = (569,0);
+ref = nuktagujr;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (365,0);
+},
+{
+name = bottom;
+pos = (344,-223);
+},
+{
+name = t.candrabindugujr;
+pos = (410,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (337,603);
+}
+);
+layerId = "B78FB6F8-4888-4A20-9211-9CA65DB7E66A";
+shapes = (
+{
+ref = hagujr;
+},
+{
+pos = (631,0);
+ref = nuktagujr;
+}
+);
+width = 690;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (291,0);
+},
+{
+name = bottom;
+pos = (230,-171);
+},
+{
+name = t.candrabindugujr;
+pos = (326,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (263,603);
+}
+);
+layerId = "E5C9A917-AA5F-4208-B63B-4C942A1E52F0";
+shapes = (
+{
+ref = hagujr;
+},
+{
+pos = (431,0);
+ref = nuktagujr;
+}
+);
+width = 457;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (292,0);
+},
+{
+name = bottom;
+pos = (284,-204);
+},
+{
+name = t.candrabindugujr;
+pos = (318,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (270,603);
+}
+);
+layerId = "5004026F-C7B4-4F0F-B515-084BD38674AE";
+shapes = (
+{
+ref = hagujr;
+},
+{
+pos = (504,11);
+ref = nuktagujr;
+}
+);
+width = 538;
+},
+{
+anchors = (
+{
+name = b.nuktagujr;
+pos = (270,0);
+},
+{
+name = bottom;
+pos = (250,-192);
+},
+{
+name = t.candrabindugujr;
+pos = (303,603);
+},
+{
+name = t.candrabinduleftgujr;
+pos = (258,603);
+}
+);
+layerId = "0BA4C117-BB0E-400D-AA02-27C87BA635D5";
+shapes = (
+{
+ref = hagujr;
+},
+{
+pos = (451,0);
+ref = nuktagujr;
+}
+);
+width = 478;
+}
+);
+metricWidth = hagujr;
+script = gujarati;
+}
